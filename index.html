@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <link href="/">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>hub-WOW | System Design</title>
+
+    <!-- External Dependencies -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.8/dist/katex.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/markdown-it-texmath/css/texmath.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/styles/github-dark.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/highlight.min.js"></script>
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@400;500;700&family=Inter:wght@400;500;600&display=swap"
+        rel="stylesheet">
+
+    <!-- Local Styles -->
+    <link rel="stylesheet" href="/Kathisto/styles.css">
+
+    <!-- Markdown & Math Dependencies -->
+    <script src="https://cdn.jsdelivr.net/npm/markdown-it@13.0.1/dist/markdown-it.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/katex@0.16.8/dist/katex.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/markdown-it-texmath/texmath.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/dompurify/3.0.6/purify.min.js"></script>
+
+    <!-- Shared Infrastructure -->
+    <script src="/Kathisto/layout.js"></script>
+    <script src="/Kathisto/md-engine.js"></script>
+</head>
+
+<body>
+    <!-- The sidebar will be injected here by Layout.init() -->
+    <div id="sidebar-wrapper"></div>
+
+    <main class="main-content">
+        <!-- Reusable Hero Section -->
+        <div id="hero-wrapper"></div>
+
+        <div class="content-container" id="content">
+            <!-- Content will be rendered by MdEngine -->
+        </div>
+    </main>
+
+    <script>
+        // CLEANED CONTENT: Removed redundancy (Title/Logo handled by Layout.renderHero)
+        const SYSTEM_DESIGN_CONTENT = `
+# 1. What is *Learning*?
+
+- Learning is the act of **gaining knowledge**, through experience, thought and conditioning.
+- As humans, we have a *higher brain-to-body ratio* than all other animals on Earth, giving us a greater ability to adapt, reason and form complex societal structures, which is all **beyond** *immediate survival needs*. We can pass on knowledge to future generations.
+- The human brain adapts and changes based on our feedback and stimuli, which is known as **neuroplasticity**.
+
+# 2. Role of hub-WOW
+- hub-WOW provides everyone with free resources including research papers, blogs, articles, and courses.
+- Some of these include:
+  - [Cryptography](cyber-security/cryptography/index.html)
+  - [System Design](system-design/index.html)
+  - [Documentation](documentation/index.html)
+  - [Chemistry](chemistry/index.html)
+
+
+# 3. Types of Learning
+- There are 4 types of learning: **Associative**, **Observational**, **Experiential**, and **Abstract**.
+##32.1. Associative
+- This type of learning is a very primitive form. It can be easily observed in most animals like dogs and cats.
+- It is formed by linking 2 concepts together.
+- It is an adaption to a condition or situation and a reponse or stimuli to it.
+### 3.1.1. Classical Conditioning
+- In this, an organism learns to associate a *external stimulus* with a biological stimulus, resulting in a conditioned response.
+- For example, ringing a bell and giving food to dog. When you ring the bell, the dog starts to salivate even before the food is served, as it associates the bell with food. This experiment is known as **Pavlov's Dog Experiment**.
+### 3.1.2. Operant Conditioning
+- In this, an organism learns to associate a *behaviour* with a consequence, resulting in a conditioned response.
+- For example, a rat in a maze learns to press a lever to get food. The rat associates the lever press with food, and thus presses the lever more often.
+`;
+
+        window.addEventListener('DOMContentLoaded', () => {
+            // ─────────────────────────────────────────────────────────────────
+            // TOP BAR CONFIG — edit this to customise the top navigation for
+            // this page. Children arrays create dropdown menus.
+            // ─────────────────────────────────────────────────────────────────
+            const TOP_BAR_LINKS = [
+                { name: 'Home', url: 'http://localhost:8090/' },
+                {
+                    name: 'Learn', url: 'http://learn.localhost:8090/',
+                    children: [
+                        { name: 'System Design', url: 'http://learn.localhost:8090/courses/system-design/index.html' },
+                        { name: 'Cryptography', url: "http://learn.localhost:8090/courses/system-design/cryptography.html" },
+                        { name: 'Markdown Syntax', url: 'http://learn.localhost:8090/courses/documentation/markdown.html' },
+                        { name: 'Preview Template', url: 'http://learn.localhost:8090/courses/documentation/preview.html' }
+                    ]
+                }
+            ];
+
+            // Initialize the shared layout — pass topBarLinks to customise the top bar
+            Layout.init({ topBarLinks: TOP_BAR_LINKS });
+
+            // Render the Shared Hero Section
+            Layout.renderHero('hero-wrapper', {
+                logo: '/resources/logo.svg',
+                title: 'Learning',
+                subtitle: 'Welcome to Learning at hub-WOW!!! From the moment you are born to the moment you die, is a process of constant evolution known as learning. Remember that it\'s always the survival of the fittest.',
+                tagline: 'Let\'s get this shit started...'
+            });
+
+            const root = document.getElementById('content');
+            const navBase = document.getElementById('sidebar-nav-list');
+
+            // Render Markdown
+            MdEngine.render(SYSTEM_DESIGN_CONTENT, root, navBase);
+
+            if (window.hljs) {
+                window.hljs.highlightAll();
+            }
+        });
+    </script>
+</body>
+
+</html>

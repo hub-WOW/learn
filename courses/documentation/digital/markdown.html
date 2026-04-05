@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <link href="/">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HUB-WOW | Markdown</title>
+
+    <!-- External Dependencies (CDN) -->
+    <!-- KaTeX: LaTeX Math Support -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.8/dist/katex.min.css">
+    <script src="https://cdn.jsdelivr.net/npm/katex@0.16.8/dist/katex.min.js"></script>
+
+    <!-- Markdown-it: Markdown Parser -->
+    <script src="https://cdn.jsdelivr.net/npm/markdown-it@13.0.1/dist/markdown-it.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/markdown-it-texmath/texmath.min.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/markdown-it-texmath/css/texmath.min.css">
+
+    <!-- Highlight.js: Code Syntax Highlighting -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/styles/github-dark.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/highlight.min.js"></script>
+
+    <!-- DOMPurify: HTML Content Sanitization -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/dompurify/3.0.6/purify.min.js"></script>
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@400;500;700&family=Inter:wght@400;500;600&display=swap"
+        rel="stylesheet">
+
+    <!-- Local Styles & Shared Logic -->
+    <link rel="stylesheet" href="/Kathisto/styles.css">
+    <script src="/Kathisto/layout.js"></script>
+    <script src="/Kathisto/md-engine.js"></script>
+</head>
+
+<body>
+    <!-- Sidebar (Injected automatically by Layout.init()) -->
+    <div id="sidebar-wrapper"></div>
+
+    <main class="main-content">
+        <!-- Reusable Hero Section (Injected by Layout.renderHero()) -->
+        <div id="hero-wrapper"></div>
+
+        <!-- Markdown Content Container -->
+        <div class="content-container" id="app-root">
+            <!-- Content rendered by MdEngine will appear here -->
+        </div>
+    </main>
+
+    <script>
+        // ─────────────────────────────────────────────────────────────────
+        // TOP BAR CONFIG — edit this to customise the top navigation for
+        // this page. Children arrays create dropdown menus.
+        // ─────────────────────────────────────────────────────────────────
+        const TOP_BAR_LINKS = [
+            { name: 'Home', url: 'http://localhost:8090/' },
+            {
+                name: 'Learn', url: 'http://learn.localhost:8090/',
+                children: [
+                    { name: 'System Design', url: 'http://learn.localhost:8090/system-design/index.html' },
+                    { name: 'Cryptography', url: 'http://learn.localhost:8090/system-design/cryptography.html' },
+                    { name: 'Markdown Syntax', url: 'http://learn.localhost:8090/documentation/markdown.html' },
+                    { name: 'Preview Template', url: 'http://learn.localhost:8090/documentation/preview.html' }
+                ]
+            }
+        ];
+
+        // Define your markdown content here
+        const MARKDOWN_COURSE_CONTENT = `
+# 1. What is *Markdown*?
+## Introduction
+- Markdown is a simple language, which uses some simple symbols to **format text**
+- It is widely used since it is *easy to use* in messaging, blogging, and documentation
+- It was invented by Alex Gruber, but he didnt standardise it as he thought that everyone has different needs.
+## Standardisation
+- Many implementations of Markdown have been made, but the most popular one is CommonMark, which supports features like *tables and checked lists*.
+- We will be learning [**CommonMark**](https://commonmark.org/) in this course.  
+- Markdown is converted into HTML before being rendered. So, that means, you can also include raw HTML or CSS in your markdown files, and it will be rendered as well.
+- Markdown doesn't support any language features like variables, loops, or functions
+
+*"I'm sick of bringing my writing down to the level of the computer. Why should I have to cover everything in annoying pointy brackets just so it knows what I mean? We've had well-standardized conventions for computer processed text for the past decade; it's time for a text format that acknowledges them, instead of inventing its own way of doing things."*  
+~ Aaron Swartz, co-founder of Reddit and RSS, and a key figure in the early development of Markdown.
+
+# 2. Basic Syntax
+- **Headings**: Use \`#\` for headings. More \`#\` in a row means smaller heading.
+- **Italics**: Use \`*\` or \`_\`.
+- **Bold**: Use \`**\` or \`__\`.
+- **Lists**: Use \`-\` or \`*\`. You can stack them for more indentation.
+- **Links**: Use \`[text](url)\` format for adding hyperlinks.
+- **Quotes**: Use \`>\` at the beginning of a line to create a blockquote. These can be stacked by adding more \`>\` symbols.
+- **Images**: Use \`![alt text](image_url)\` for adding images. The image_url can be a local directory or an external link.
+- **Code**: Use \` \`\`\` \` to start and end a code block.
+
+# 3. Advanced Features
+- **Tables**:
+  - Create Tables: \`| Column 1 | Column 2\` and \`| --- | --- |\` for the header separator.
+  - Table Formatting: Use \`:---\` for left alignment, \`:---:\` for center alignment, and \`---:\` for right alignment of columns.
+- **Task Lists**: Use \`- [ ]\` for an unchecked box and \`- [x]\` for a checked box.
+
+# 4. Applications and Use Cases
+- Try out Markdown yourself! Create a new file with .md extension and start writing. You can use any text editor, or even write directly in platforms that support Markdown like GitHub, Reddit, or Discord.
+- Markdown is a powerful tool for creating well-formatted content without needing to write complex HTML. It allows you to focus on your writing while still producing visually appealing results.
+## 4.1 hub-WOW
+- hub-WOW has made a Markdown engine named [**Kathisto**](https://github.com/hub-WOW/Kathisto).
+- You can try Kathisto out by writing your markdown files, and dragging them into the [webpage](/docs/kathisto/preview.html). It will be *rendered for you*.
+
+## Learning never ends!  
+*The more you learn, the more you realise that you are a fool, and there is an infinite sea of knowledge in front of you.*
+**We have a course on LaTeX which is a powerful way to add** *math and scientific notation to your documents.* **Check it out [here](latex.html).**
+`;
+
+        window.addEventListener('DOMContentLoaded', () => {
+            // 1. Initialize the shared layout (Sidebar, Top bar, Resize logic)
+            Layout.init({ topBarLinks: TOP_BAR_LINKS });
+
+            // 2. Render the Hero Section
+            Layout.renderHero('hero-wrapper', {
+                logo: '/resources/logo.svg',
+                title: 'Markdown',
+                subtitle: 'Welcome to Markdown at hub-WOW. It is one of the key elements of the modern-day internet, revolutionizing blogs, chatting, and documentation.',
+                tagline: 'Let\'s get this shit started...'
+            });
+
+            // 3. Render the Markdown content
+            const root = document.getElementById('app-root');
+            const toc = document.getElementById('sidebar-nav-list'); // Injected by Layout.init()
+
+            MdEngine.render(MARKDOWN_COURSE_CONTENT, root, toc);
+
+        });
+    </script>
+</body>
+
+</html>
