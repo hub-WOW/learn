@@ -1,0 +1,17 @@
+- Charcoal is a **black, porous form of carbon** obtained by **heating wood or other plant materials in the absence of air**.
+- Formation
+	- Produced by the **destructive distillation of wood**.
+	- When wood is heated without oxygen, volatile substances are driven off, leaving behind **carbon-rich charcoal**.
+- Properties
+	- Black and lightweight solid
+	- Highly **porous**
+	- **Good adsorbent** (can trap gases and impurities)
+	- Burns with **very little smoke**
+	- Poor conductor of electricity
+- Uses
+	- Used as a **fuel**
+	- Used in **water purification and filtration**
+	- Used in **medicine to absorb poisons and toxins**
+	- Used in **gunpowder and explosives**
+- Parent
+	- [Allotropes of Carbon](/courses/science/chemistry/organic-chemistry/allotropes-of-carbon.html)

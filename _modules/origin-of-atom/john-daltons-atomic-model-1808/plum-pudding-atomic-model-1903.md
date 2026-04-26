@@ -1,0 +1,11 @@
+- J.J Thompson created the plum pudding model in 1903.
+  id:: 69cff432-4310-41f5-a373-84bcd43c6aef
+- [:img {:src "https://image1.slideserve.com/2554693/the-plum-pudding-model-l.jpg", :style {:max-width "450px"}}]
+- ## Claims
+	- Total positive charge is equal to total negative charge in an atom.
+	- The atom is neutral as a whole, and negative charges are present in small regions, and the rest is entirely made of positive charges.
+- ## Drawbacks
+	- There is no nucleus.
+	- If the atom is completely filled with positive charges, and negative charges exist in small regions, then it doesn't seem that the charges are equal.
+- Parent
+	- [John Dalton's Atomic Model (1808)](/courses/origin-of-atom/john-daltons-atomic-model-1808.html) ]

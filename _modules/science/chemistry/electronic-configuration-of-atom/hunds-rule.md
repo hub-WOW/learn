@@ -1,0 +1,5 @@
+- [:a {:href "https://www.chemistrylearner.com/hunds-rule.html", :rel "noopener", :target "_blank"} [:div {} [:img {:src "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.chemistrylearner.com%2Fwp-content%2Fuploads%2F2021%2F07%2FHunds-Rule.jpg&f=1&nofb=1&ipt=87da34b424cfe2671668ef326099c8e1abcaf64497de2dd8ce522d973f8c812e", :alt "Hund's Rule: Statement, Definition, and Example.", :loading "eager"}]]]
+- Electrons first individually occupy each sub-shell within an orbital before pairing up.
+- Parent
+	- [Electronic Configuration of Atom](/courses/science/chemistry/electronic-configuration-of-atom.html)
+	- [Aufbau Principle](/courses/science/chemistry/electronic-configuration-of-atom/aufbau-principle.html)

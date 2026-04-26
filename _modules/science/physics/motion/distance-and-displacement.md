@@ -1,0 +1,16 @@
+- **Fundamental Idea**
+	- Distance is the total length of path travelled; displacement is the straight-line change in position from start to end, with direction.
+- **Qualitative Explanation**
+	- When an object moves, two different questions can be asked: how much ground did it cover, and how far did it actually get from where it started? These are not the same. A runner completing a full lap of a track covers 400 m of ground but ends up exactly where they started — displacement is zero.
+- **Generalisation**
+	- Distance is always ≥ displacement in magnitude. They are equal only when motion is along a straight line without reversing. Speed is built on distance; velocity is built on displacement — so the distance/displacement distinction propagates throughout all of kinematics.
+- **Derivation**
+	- No derivation — these are defined quantities, not derived ones.
+- **Quantitative Form**
+	- Distance: scalar, always ≥ 0, SI unit — metre (m).
+	- Displacement: vector, can be positive, negative, or zero, SI unit — metre (m).
+	- Example — walk 4 m east, then 3 m west:
+		- Distance = 4 + 3 = **7 m**
+		- Displacement = 4 − 3 = **1 m east**
+- **Parent**
+	- [Motion](/courses/science/physics/motion.html)

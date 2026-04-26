@@ -1,0 +1,17 @@
+- **Fundamental Idea**
+	- Kinetic friction is the constant friction force acting on an object that is already sliding across a surface.
+- **Qualitative Explanation**
+	- Once an object overcomes static friction and begins to slide, the friction force drops to a lower, roughly constant value — kinetic friction. The asperities no longer have time to fully interlock; they skim over each other. This is why it takes more force to get something moving than to keep it moving.
+- **Generalisation**
+	- $\mu_k$ is approximately constant regardless of sliding speed for most everyday surfaces, making kinetic friction predictable and easy to use in calculations. At very high speeds this breaks down, but for school-level physics it is treated as constant.
+- **Derivation**
+	- Experimentally, kinetic friction is proportional to normal force $N$:
+	- $f_k \propto N$ → introduce $\mu_k$: $f_k = \mu_k N$
+	- $\mu_k < \mu_s$ always — once sliding begins, less force is needed to maintain it.
+- **Quantitative Form**
+	- $f_k = \mu_k N$
+	- $\mu_k$ is dimensionless, depends on the material pair.
+	- $\mu_k < \mu_s$ (kinetic < static always)
+	- Examples: sliding a crate across a floor; skidding car tyre during hard braking.
+- **Parent**
+	- [Friction](/courses/science/physics/motion/friction.html)

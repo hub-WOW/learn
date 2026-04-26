@@ -1,0 +1,24 @@
+- **Fundamental Idea**
+	- Three equations relating displacement, velocity, acceleration, and time for motion under uniform (constant) acceleration in a straight line.
+- **Qualitative Explanation**
+	- When acceleration is constant, the relationships between $s$, $u$, $v$, $a$, and $t$ are fixed algebraically. Any three of the five variables determine the other two — the three equations are the tools for doing that. Each equation eliminates one variable, so together they cover all cases.
+- **Generalisation**
+	- Valid only for uniform acceleration along a straight line. For free fall, substitute $a = g = 9.8$ m/s² and choose a consistent sign convention (usually downward positive). For vertical projection upward, $a = -g$.
+- **Derivation**
+	- Variables: $u$ = initial velocity, $v$ = final velocity, $a$ = acceleration, $t$ = time, $s$ = displacement.
+	- **First equation** — from the definition of acceleration:
+		- $a = \dfrac{v - u}{t}$ → $v = u + at$
+	- **Second equation** — displacement = average velocity × time:
+		- $s = \dfrac{u + v}{2} \cdot t$; substitute $v = u + at$:
+		- $s = \dfrac{u + u + at}{2} \cdot t = ut + \dfrac{1}{2}at^2$
+	- **Third equation** — eliminate $t$ using $t = \dfrac{v-u}{a}$, substitute into the second equation:
+		- $s = u \cdot \dfrac{v-u}{a} + \dfrac{1}{2}a \cdot \dfrac{(v-u)^2}{a^2}$
+		- Multiply through by $2a$: $2as = 2u(v-u) + (v-u)^2 = v^2 - u^2$
+		- $v^2 = u^2 + 2as$
+- **Quantitative Form**
+	- $v = u + at$ (no $s$)
+	- $s = ut + \dfrac{1}{2}at^2$ (no $v$)
+	- $v^2 = u^2 + 2as$ (no $t$)
+	- All quantities in SI units: m, m/s, m/s², s.
+- **Parent**
+	- [Motion](/courses/science/physics/motion.html)

@@ -1,0 +1,19 @@
+- **Fundamental Idea**
+	- Resistors in series add directly; resistors in parallel combine as reciprocals — in both cases the combination can be replaced by a single equivalent resistance.
+- **Qualitative Explanation**
+	- In series, current must pass through every resistor in turn — each one adds more opposition, so total resistance grows. In parallel, current has multiple paths — adding another path always gives more routes for current, so total resistance falls. This is why adding resistors in parallel always gives a total resistance smaller than the smallest individual resistor.
+- **Generalisation**
+	- These two rules apply recursively — any complex resistor network can be reduced step by step by identifying series and parallel groups and replacing them with their equivalents. This underpins the analysis of all DC circuits.
+- **Derivation**
+	- **Series** — same current $I$ flows through each; voltages add:
+		- $V = V_1 + V_2 + V_3 = IR_1 + IR_2 + IR_3 = I(R_1 + R_2 + R_3)$
+		- $R_{series} = R_1 + R_2 + R_3$
+	- **Parallel** — same voltage $V$ across each; currents add:
+		- $I = I_1 + I_2 + I_3 = \dfrac{V}{R_1} + \dfrac{V}{R_2} + \dfrac{V}{R_3} = V\left(\dfrac{1}{R_1} + \dfrac{1}{R_2} + \dfrac{1}{R_3}\right)$
+		- $\dfrac{1}{R_{parallel}} = \dfrac{1}{R_1} + \dfrac{1}{R_2} + \dfrac{1}{R_3}$
+- **Quantitative Form**
+	- Series: $R_{total} = R_1 + R_2 + \ldots + R_n$
+	- Parallel: $\dfrac{1}{R_{total}} = \dfrac{1}{R_1} + \dfrac{1}{R_2} + \ldots + \dfrac{1}{R_n}$
+	- For two resistors in parallel: $R_{total} = \dfrac{R_1 R_2}{R_1 + R_2}$
+- **Parent**
+	- [Resistance](/courses/science/physics/electricity/resistance.html)

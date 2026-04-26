@@ -1,0 +1,15 @@
+- **Mass** is the **amount of matter** in an object.
+- The **SI unit of mass is kilogram (kg)**.
+- Tools
+	- Common Balance — compares two masses
+	- Spring Balance — measures weight, converted to mass
+	- Electronic Balance — most precise, gives direct reading
+- Mass vs Weight
+	- | Property | Mass | Weight |
+	- |---|---|---|
+	- | Definition | Amount of matter | Gravitational force on matter |
+	- | Formula | — | W = mg |
+	- | SI Unit | kg | Newton (N) |
+	- | Changes with location? | No | Yes |
+- Parent
+	- [Measurement](/courses/science/physics/measurement.html)

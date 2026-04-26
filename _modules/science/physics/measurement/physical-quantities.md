@@ -1,0 +1,21 @@
+- Everything we observe in nature is either a **quality** or a **quantity**.
+	- Quality — "the stone is heavy." No number, no comparison possible.
+	- Quantity — "the stone is 5 kg." Comparable, reproducible, communicable.
+- A **physical quantity** is any property that can be measured and expressed as a number with a unit.
+- Observation led to a key insight — some quantities are **independent** of each other, while others can be **built from** those independent ones.
+- Fundamental Quantities
+	- These are the irreducible base quantities — you cannot derive them from anything simpler.
+	- Length, Mass, Time, Temperature, Electric Current, Amount of Substance, Luminous Intensity.
+	- They are not "more important" — they are simply chosen as the **building blocks**.
+- Derived Quantities
+	- Built by combining fundamental quantities through physical laws.
+	- Speed — observed that objects cover distance in time. Speed = Length / Time → m/s.
+	- Area — a surface stretches in two length directions. Area = Length × Length → m².
+	- Force — Newton observed that pushing harder accelerates more. Force = Mass × Acceleration → kg·m/s² = Newton (N).
+	- Every derived quantity is the **crystallisation of a physical law into a ratio or product**.
+- Scalars and Vectors
+	- Some quantities are fully described by a number alone — **scalars** (mass, temperature, speed).
+	- Others require a number **and a direction** — **vectors** (displacement, velocity, force).
+	- This distinction emerges from observation: 5 kg of sugar is just 5 kg regardless of direction. But a 5 N push to the left is very different from a 5 N push to the right.
+- Parent
+	- [Measurement](/courses/science/physics/measurement.html)

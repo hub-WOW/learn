@@ -1,0 +1,17 @@
+- Made by Lother Meyer, Around the time of Mendeleev.
+- [:a {:href "https://stock.adobe.com/de/images/lothar-meyer-s-atomic-volume-curve-lothar-meyer-a-german-chemist-plotted-a-graph-between-atomic-weight-and-atomic-volume/502210831", :rel "noopener", :target "_blank"} [:div {} [:img {:src "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fas1.ftcdn.net%2Fv2%2Fjpg%2F05%2F02%2F21%2F08%2F1000_F_502210831_p2mUfDBpACYVsN2KNKxqHm7p1cS7us7b.jpg&f=1&nofb=1&ipt=cc580b24685251c12f4145996129b7eb82909f81bcec8064b20132c3ecd61097", :alt "Lothar Meyer's Atomic Volume Curve: Lothar Meyer a German chemist ...", :loading "eager"}]]]
+- Plotted atomic volume of elements against their atomic masses.
+- The graph showed a periodic rise and fall pattern.
+- Elements with similar chemical properties appeared at similar positions on the curve.
+- Key Observations
+	- Alkali metals occur at the peaks of the curve.
+	- Halogens appear on the descending side of the peaks.
+	- Noble gases appear near the minima.
+	- The repeating pattern indicated periodicity in element properties.
+- Significance
+	- Provided strong graphical evidence for periodic behavior of elements.
+	- Supported the idea that properties of elements are periodic functions of atomic mass.
+	- Drawback
+		- Did not propose a full periodic table or predict undiscovered elements.
+- Parent
+	- [Mendeleev's Periodic Table (1869)](/courses/science/chemistry/language-of-chemistry/modern-periodic-table-1913/mendeleevs-periodic-table-1869.html)

@@ -1,0 +1,13 @@
+- Covalent Bond is a bond formed by sharing of electron pairs between 2 atoms.
+- Driven by mutual attraction of nuclei for the shared electron pair.
+- Characteristics
+	- Usually weaker than ionic bonds.
+	- Lower Melting Point
+	- Lower Boiling Point
+	- Generally non-polar in nature. Insoluble in water but soluble in organic solvents.
+	- Usually gases, liquids, or soft solids.
+	- Usually formed between non-metals.
+	- Forms molecules instead of ions.
+- Parent
+	- [Chemical Bonds](/courses/science/chemistry/chemical-bonds.html)
+	- [Octate Rule](/courses/science/chemistry/electronic-configuration-of-atom/bohr-burry-scheme/octate-rule.html)

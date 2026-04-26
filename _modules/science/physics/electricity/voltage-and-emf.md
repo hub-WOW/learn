@@ -1,0 +1,17 @@
+- **Fundamental Idea**
+	- Voltage (potential difference) is the work done per unit charge to move a charge between two points. EMF is the total energy supplied per unit charge by a source.
+- **Qualitative Explanation**
+	- A charge won't flow on its own — it needs an energy difference to drive it, just as water needs a height difference to flow downhill. Voltage is that electrical "height difference" between two points. EMF is the voltage a source (battery, cell) can provide when no current is drawn. When current flows, internal resistance inside the source causes the terminal voltage to drop below the EMF.
+- **Generalisation**
+	- EMF and voltage have the same units (volts) but refer to different things: EMF is a property of the source (energy input per charge), while potential difference is measured across any two points in a circuit (energy output per charge). The distinction matters in real circuits with internal resistance — the terminal voltage is always less than EMF under load.
+- **Derivation**
+	- Work done $W$ to move charge $Q$ between two points defines potential difference:
+	- $V = \dfrac{W}{Q}$
+	- Terminal voltage with internal resistance $r$ and current $I$:
+	- $V_{terminal} = \text{EMF} - Ir$
+- **Quantitative Form**
+	- $V = \dfrac{W}{Q}$, SI unit — Volt (V); $1\text{ V} = 1\text{ J/C}$
+	- $V_{terminal} = \varepsilon - Ir$ (where $\varepsilon$ = EMF, $r$ = internal resistance)
+	- Measured with a **Voltmeter**, connected in **parallel**.
+- **Parent**
+	- [Electricity](/courses/science/physics/electricity.html)

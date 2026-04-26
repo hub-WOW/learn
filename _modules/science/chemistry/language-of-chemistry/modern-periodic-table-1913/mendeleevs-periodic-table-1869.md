@@ -1,0 +1,24 @@
+- Made by Russian Scientist, Dmitri Mendeleev.
+- [:a {:href "https://www.shalom-education.com/courses/edexcel-gcse-chemistry/lessons/key-concepts-in-chemistry/topic/mendeleev-and-the-first-periodic-table/?ld-topic-page=63762-1", :rel "noopener", :target "_blank"} [:div {} [:img {:src "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.shalom-education.com%2Fwp-content%2Fuploads%2F2024%2F03%2FMendeleevs-Periodic-Table-1024x853.webp&f=1&nofb=1&ipt=c0f428f3dee694cd90ca6515600f3e8bf00f8391f576d53300c9f5893e0ada28", :alt "Mendeleev and the First Periodic Table | Edexcel GCSE Chemistry Revision", :loading "eager"}]]]
+- Elements arranged in order of increasing atomic mass in 'periods'.
+- Elements with similar chemical properties were placed in the same vertical 'groups'.
+- Stated the Periodic Law:
+	- "The physical and chemical properties of elements are periodic functions of their atomic masses."
+- Key Features
+	- Left gaps for undiscovered elements.
+	- Predicted properties of these unknown elements accurately.
+	- Sometimes reversed atomic mass order to keep similar elements together.
+- Successful Predictions
+	- Eka-Aluminium → Gallium
+	- Eka-Silicon → Germanium
+	- Eka-Boron → Scandium
+- Examples of Reversed Order
+	- Iodine placed after Tellurium despite lower atomic mass.
+	- This was done to keep elements with similar properties together.
+- Drawbacks
+	- Position of hydrogen was uncertain. (2 Positions)
+	- Could not explain isotopes (same element with different masses).
+	- Noble gases were not included initially. He argued with William Ramsay.
+	- Based on atomic mass instead of atomic number.
+- Parent
+	- [Modern Periodic Table (1913)](/courses/science/chemistry/language-of-chemistry/modern-periodic-table-1913.html)

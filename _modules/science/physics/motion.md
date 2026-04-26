@@ -1,0 +1,17 @@
+- **Fundamental Idea**
+	- Motion is the change in position of an object with respect to a reference point over time.
+- **Qualitative Explanation**
+	- Nothing moves or stays still in an absolute sense — rest and motion are always relative to a chosen reference frame. A passenger on a moving train is stationary relative to the train but moving relative to the ground. Before quantifying motion, a reference point (origin) and axes must be fixed.
+- **Generalisation**
+	- All motion — whether linear, circular, oscillatory, or random — is described by the same underlying quantities: position, time, and change. The type of motion differs only in the geometry of the path and whether the pattern repeats.
+- **Types of Motion**
+	- **Linear** — along a straight line (falling stone, car on a straight road).
+	- **Circular** — along a circular path (Earth around the Sun, fan blades).
+	- **Oscillatory** — back and forth about a mean position (pendulum, guitar string).
+	- **Random** — no fixed path or direction (gas molecules, Brownian motion).
+	- **Periodic** — repeats after equal time intervals; oscillatory motion is a special case.
+- **Quantitative Form**
+	- Motion is measured through [Distance and Displacement](/courses/science/physics/motion/distance-and-displacement.html), [Speed and Velocity](/courses/science/physics/motion/speed-and-velocity.html), and [Acceleration](/courses/science/physics/motion/acceleration.html).
+	- Equations governing uniform acceleration are in [Equations of Motion](/courses/science/physics/motion/equations-of-motion.html).
+- **Parent**
+	- [Physics](/courses/science/physics.html)

@@ -1,0 +1,4 @@
+- **Heat** is a form of energy that flows from a **hotter body to a colder body**
+- Heat is measured in **Joules (J)**; temperature in **Kelvin (K)** or **Celsius (°C)**.
+- Parent
+	- [Physics](/courses/science/physics.html)

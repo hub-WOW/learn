@@ -22,6 +22,13 @@ For the full technical layout, including the markdown engine and CSS variable us
 
 ## 🛠 Working with the Infrastructure
 
+### Porting Logseq Notes
+All informational content is maintained as Logseq notes in `Logseq/pages/`. To port these into the website's structure:
+1. Run `python scripts/port_logseq.py`.
+2. The script parses the `- **Parent**\n  - [[Topic]]` syntax to determine the folder hierarchy.
+3. Notes are automatically copied to `_modules/` and a thin HTML wrapper is generated in `courses/` using Kathisto.
+4. Formal language is lightly transformed to informal language using `scripts/slang_map.py`.
+
 ### Quick Start: Adding a New Page
 
 1. Copy `Kathisto/demo.md` as a template. Add the logo.

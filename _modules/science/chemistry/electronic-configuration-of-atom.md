@@ -1,0 +1,8 @@
+- Electronic Configuration is the distribution of electrons in different shells around the nucleus.
+- [Valency](/courses/science/chemistry/electronic-configuration-of-atom/valency.html)
+- [Bohr-Burry Scheme](/courses/science/chemistry/electronic-configuration-of-atom/bohr-burry-scheme.html)
+- [Octate Rule](/courses/science/chemistry/electronic-configuration-of-atom/bohr-burry-scheme/octate-rule.html)
+- [Aufbau Principle](/courses/science/chemistry/electronic-configuration-of-atom/aufbau-principle.html)
+- [Hund's Rule](/courses/science/chemistry/electronic-configuration-of-atom/hunds-rule.html)
+- Parent
+	- [Chemistry](/courses/science/chemistry.html)

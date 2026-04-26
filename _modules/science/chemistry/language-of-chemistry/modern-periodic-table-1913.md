@@ -1,0 +1,24 @@
+- Made by Henry Moseley.
+- [:a {:href "https://commons.wikimedia.org/wiki/File:Periodic_Table_Chart.png", :rel "noopener", :target "_blank"} [:div {} [:img {:src "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F9%2F9d%2FPeriodic_Table_Chart.png&f=1&nofb=1&ipt=ab3f009d3cc423c48cdc1cfe7053806fb8d08efe4adfe22b2191633cd1be2198", :alt "File:Periodic Table Chart.png - Wikimedia Commons", :loading "eager"}]]]
+- Elements arranged in order of increasing atomic number (Z).
+- Structure
+	- Horizontal rows → Periods (7 periods)
+	- Vertical columns → Groups (18 groups)
+	- Elements in the same group have similar valence electronic configuration.
+	- Periodicity occurs due to repetition of similar valence electron configurations.
+- Important Features
+	- Corrected anomalies in Mendeleev's table (e.g., Ar–K, Co–Ni).
+	- Isotopes occupy the same position because they have the same atomic number.
+	- Noble gases added as Group 18.
+	- Lanthanides and actinides placed separately at the bottom.
+- Blocks of Elements
+	- s-block → Groups 1–2
+	- p-block → Groups 13–18
+	- d-block → Groups 3–12 (transition elements)
+	- f-block → Lanthanides and Actinides
+- Advantages over Mendeleev's Table
+	- Based on fundamental property (atomic number).
+	- Explains isotopes correctly.
+	- Removes incorrect atomic mass placements.
+- Parent
+	- [Language of Chemistry](/courses/science/chemistry/language-of-chemistry.html)

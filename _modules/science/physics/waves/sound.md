@@ -1,0 +1,31 @@
+- Sound is a **form of energy produced by vibrating objects**.
+- It travels through a **medium as mechanical waves** and can be detected by the human ear.
+- [:a {:href "https://www.scienceflip.com.au/subjects/physics/wavesandthermodynamics/learn17/", :rel "noopener", :target "_blank"} [:div {} [:img {:src "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%2Fid%2FOIP.JxLvORzEfUbeb7k1uywEswHaCe%3Fpid%3DApi&f=1&ipt=6f37043ca3777407a3fca64813846b2307186d2b52e3fb2cc32cf4211cb9e8e3", :alt "Sound as a Longitudinal Wave - Learn - ScienceFlip", :loading "eager"}]]]
+- Generation of Sound
+	- Sound is produced when an **object vibrates**.
+	- These vibrations cause the surrounding particles of the medium to **move back and forth**, creating sound waves.
+	- Examples
+		- Vibrating strings of a guitar
+		- Vocal cords in the throat
+		- Vibrating membrane of a drum
+- Propagation of Sound
+	- Propagation means the **movement or transmission of sound through a medium**.
+	- Sound travels as **longitudinal waves**.
+	- The particles of the medium move in **compressions and rarefactions**.
+		- Compression is a region where particles are **close together**.
+		- Rarefaction is a region where particles are **far apart**.
+	- Sound requires a **material medium**, and the speed of it is only dependent on it.
+	- Sound **cannot travel in vacuum**.
+- Reception and Perception of Sound
+	- Done by the Ear and Brain.
+	- Timbre
+		- Timbre is the **quality or characteristic of a sound that allows us to distinguish between different sound sources**, even when they produce **the same frequency and loudness**.
+		- Waveforms contain the **fundamental frequency and additional frequencies called overtones or harmonics**.
+		- Overtones are a multiple of the fundamental frequency.
+		- The **number and intensity of these harmonics** vary for each instrument.
+		- Example
+			- A **piano** and a **violin** can both play the same musical note (same frequency).
+			- However, their sound waves contain **different harmonic patterns**.
+			- Because of this, the sounds **don't feel identical to the ear**.
+- Parent
+	- [Waves](/courses/science/physics/waves.html)

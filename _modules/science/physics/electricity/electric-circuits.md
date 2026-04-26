@@ -1,0 +1,15 @@
+- **Fundamental Idea**
+	- An electric circuit is a closed conducting path through which current can flow continuously, driven by a source of EMF.
+- **Qualitative Explanation**
+	- Current only flows if the path is unbroken — a gap anywhere stops it. A circuit must have a source (to supply energy), conductors (to carry charge), and a load (to consume energy). Series circuits provide one path; parallel circuits provide multiple paths. Household wiring is parallel so each device receives full voltage and can be switched independently.
+- **Generalisation**
+	- The two configurations — series and parallel — are the building blocks of all real circuits. Complex circuits are analysed by identifying series and parallel sub-sections and simplifying them. Real circuits also account for the internal resistance of the source (see [Voltage and EMF](/courses/science/physics/electricity/voltage-and-emf.html)).
+- **Derivation**
+	- No standalone derivation — circuit rules follow from conservation of energy (Kirchhoff's Voltage Law) and conservation of charge (Kirchhoff's Current Law). These are applied in [Resistors in Series and Parallel](/courses/science/physics/electricity/resistance/resistors-in-series-and-parallel.html).
+- **Quantitative Form**
+	- Series: same current through all components; voltage divides — $V = V_1 + V_2 + \ldots$
+	- Parallel: same voltage across all components; current divides — $I = I_1 + I_2 + \ldots$
+	- Ammeter — measures current; connected in **series** (low resistance so it doesn't affect circuit)
+	- Voltmeter — measures voltage; connected in **parallel** (high resistance so it draws negligible current)
+- **Parent**
+	- [Electricity](/courses/science/physics/electricity.html)

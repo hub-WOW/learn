@@ -1,0 +1,14 @@
+- **Fundamental Idea**
+	- Rolling friction is the resistance to motion experienced by an object rolling over a surface, caused by deformation at the contact point.
+- **Qualitative Explanation**
+	- When a wheel or ball rolls, neither surface slides against the other — the contact point is momentarily at rest. Resistance arises instead from the slight deformation (compression) of the wheel or surface as the contact area shifts. This is far less energy-intensive than sliding, which is why wheels and ball bearings transformed transport and machinery.
+- **Generalisation**
+	- Rolling friction is orders of magnitude smaller than kinetic friction for the same normal force. This is why ball bearings are used in machines — replacing sliding contact with rolling contact dramatically reduces friction and wear. The rounder and harder the surfaces, the less deformation, and the less rolling friction.
+- **Derivation**
+	- Rolling friction is complex to derive from first principles (involves elasticity of materials). At this level it is treated empirically: $f_r = \mu_r N$, where $\mu_r \ll \mu_k$.
+- **Quantitative Form**
+	- $f_r = \mu_r N$, where $\mu_r$ is the coefficient of rolling friction
+	- $\mu_r \ll \mu_k \ll \mu_s$ in general
+	- Examples: ball rolling on a floor; car or bicycle wheels; ball bearings in motors.
+- **Parent**
+	- [Friction](/courses/science/physics/motion/friction.html)

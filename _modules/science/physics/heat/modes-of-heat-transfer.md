@@ -1,0 +1,19 @@
+- Heat can be transferred in three ways.
+- Conduction
+	- Transfer of heat **through a solid** without movement of the material itself.
+	- Heat passes from particle to particle by **direct contact**.
+	- Best in **metals** (good conductors).
+	- Poor in **wood, plastic, air** (insulators).
+	- Example — metal rod heated at one end becomes hot throughout.
+- Convection
+	- Transfer of heat through **fluids (liquids and gases)** by movement of the fluid itself.
+	- Hot fluid **rises**, cool fluid **sinks**, creating a convection current.
+	- Example — boiling water, sea breeze, room heaters.
+- Radiation
+	- Transfer of heat as **electromagnetic waves** (infrared radiation).
+	- Does **not require a medium** — can travel through vacuum.
+	- Example — heat from the Sun reaching Earth.
+	- Dark/dull surfaces — **good absorbers and emitters** of radiation.
+	- Light/shiny surfaces — **poor absorbers, good reflectors**.
+- Parent
+	- [Heat](/courses/science/physics/heat.html)

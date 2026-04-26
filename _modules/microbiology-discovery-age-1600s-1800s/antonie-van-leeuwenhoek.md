@@ -1,0 +1,23 @@
+- **Antonie van Leeuwenhoek** (1632–1723) — Dutch draper and self-taught scientist; the first person to observe and describe bacteria and protozoa. Known as the "Father of Microbiology."
+- **Background**
+	- Had no formal scientific training. Learned lens-grinding as a hobby and built single-lens microscopes achieving ~270× magnification — far beyond the compound microscopes of the time, which were limited to ~30×. Kept his lens-making methods secret throughout his life.
+- **Experiments and Observations**
+	- **Pond water (1674–1676)**
+		- Took samples from a local lake (Berkelse Meer) in Delft. Observed numerous moving organisms of varying shapes — spherical, rod-shaped, spiral.
+		- Conclusion — living organisms too small to see with the naked eye are present in water.
+	- **Dental scrapings (1683)**
+		- Scraped material from his own teeth and those of others (including an old man who had never cleaned his teeth). Observed enormous numbers of fast-moving organisms.
+		- Conclusion — the human mouth harbours vast numbers of microscopic living organisms. This was the first observation of what we now call oral bacteria.
+	- **Pepper infusion experiment**
+		- Soaked peppercorns in water for weeks, then examined the water. Found teeming microbial life — which he had originally thought might come from tiny "pepper animals."
+		- Conclusion — microorganisms were ubiquitous in water infusions, not specific to any one source.
+	- **Sperm and reproduction**
+		- Observed human and animal spermatozoa (1677); described their motility and structure. First to observe that sperm are cells, contributing to understanding of reproduction.
+- **Reporting**
+	- Sent detailed letters with drawings to the Royal Society of London from 1673 onwards. The Society was initially sceptical; sent a delegation to Delft to verify his observations. Confirmed. Elected Fellow of the Royal Society in 1680.
+- **Opposition**
+	- No serious scientific opposition to his observations — they were verified and accepted. The significance (that microorganisms might cause disease) was not grasped for another 200 years.
+- **Legacy**
+	- Established that a microbial world exists. His observations were not built upon scientifically for nearly two centuries — the tools and conceptual framework needed to understand what microorganisms *did* came only with Pasteur and Koch.
+- **Parent**
+	- [Microbiology Discovery Age (1600s–1800s)](/courses/microbiology-discovery-age-1600s-1800s.html)

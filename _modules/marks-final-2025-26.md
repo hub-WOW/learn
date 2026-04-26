@@ -1,0 +1,9 @@
+- Physics:
+- Chemistry: 24
+- Biology:
+- Maths: 59.5
+- English:
+- Geography:
+- History:
+- Marathi: 21
+- Sanskrit:

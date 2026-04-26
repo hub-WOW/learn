@@ -1,0 +1,30 @@
+- A wave is a **disturbance that transfers energy from one place to another without transferring matter**.
+- [:a {:href "https://www.soundproofingcompany.com/soundproofing101/what-is-sound/", :rel "noopener", :target "_blank"} [:div {} [:img {:src "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.soundproofingcompany.com%2Fwp-content%2Fuploads%2F2011%2F06%2Famplitude-e1447285050750.gif&f=1&nofb=1&ipt=c37bd63d67e9cac300c5490747c365e0f51a2f9d335bce22133a4a48003afe2f", :alt "What is Sound? Understanding the Nature of Sound and Soundwaves.", :loading "eager"}]]]
+- Waves may travel through a **medium** or through **empty space**.
+- Important Terms
+	- Wavelength $\lambda$
+		- The **distance between two consecutive crests or troughs** of a wave.
+	- Frequency (f)
+		- The **number of waves passing a point in one second**.
+		- Unit: **Hertz (Hz)**
+	- Amplitude (A)
+		- The **maximum displacement of a particle from its mean position**.
+		- Determines the **energy or intensity** of the wave.
+	- Wave Number ($\tilde{\nu}$)
+		- 1/Wavelength
+		- Measure of cycles in an unit distance.
+- Types of Waves
+	- Transverse Waves
+		- Particle vibration is **perpendicular to the direction of wave motion**.
+		- Example
+			- Light waves
+			- Waves on a string
+			- S Seismic Waves
+	- Longitudinal Waves
+		- Particle vibration is **parallel to the direction of wave motion**.
+		- Example
+			- Sound waves
+			- P Seismic Waves
+- [:a {:href "https://viewinder.com/synthesis-05/", :rel "noopener", :target "_blank"} [:div {} [:img {:src "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi1.wp.com%2Fviewinder.com%2Fwp-content%2Fuploads%2F2021%2F03%2FSynthesis-Waveforms-02.jpg%3Fw%3D1201%26ssl%3D1&f=1&nofb=1&ipt=fa72e068caddde22d234eba451dd7634722e0a4809eb967f64e49907baf264b4", :alt "Audio School: Synthesis, from Fundamentals to Advanced - viewinder", :loading "eager"}]]]
+- Parent
+	- [Physics](/courses/science/physics.html)

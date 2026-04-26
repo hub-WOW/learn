@@ -1,0 +1,33 @@
+- **Robert Koch** (1843–1910) — German physician and microbiologist. Developed the technical foundations of modern microbiology — pure culture, solid media, and Koch's Postulates — and identified the causative agents of anthrax, tuberculosis, and cholera. Nobel Prize 1905.
+- **Background**
+	- Country doctor in rural Germany with no laboratory funding. Built his first techniques with a microscope, homemade photographic setup, and kitchen equipment. His meticulous methodology set the standard for all subsequent bacteriology.
+- **Anthrax (1876)**
+	- **Experiment** — isolated *Bacillus anthracis* from the blood and tissues of animals that had died of anthrax. Grew the bacteria in pure culture through multiple generations outside any host. Injected the cultured bacteria into healthy mice; they developed anthrax and died. Re-isolated the same bacteria from the dead mice.
+	- **Conclusion** — *Bacillus anthracis* is the specific cause of anthrax. This was the first time a specific bacterium was proven to cause a specific disease through the full experimental chain.
+	- **Opposition** — some scientists doubted a single organism could cause such a devastating disease. Koch's meticulous documentation and photography were decisive.
+- **Pure Culture and Solid Media Techniques (1881)**
+	- **Experiment** — developed the use of solid culture media (initially gelatin, then agar suggested by Angelina Fanny Hesse) to grow bacteria as isolated colonies. Each colony originated from a single bacterium, enabling pure cultures. Also developed staining techniques to visualise bacteria under a microscope.
+	- **Conclusion** — bacteria can be grown as pure, isolated strains — a prerequisite for proving specific causation. Agar-based media became the universal standard and remains so today.
+	- **Opposition** — none; these techniques were immediately adopted worldwide.
+- **Tuberculosis (1882)**
+	- **Experiment** — used new staining methods (alkaline methylene blue) to visualise bacteria in the tissue of tuberculosis patients. Isolated a rod-shaped bacterium (*Mycobacterium tuberculosis*) in pure culture from human and animal TB tissue. Injected cultures into healthy animals; they developed tuberculosis. Re-isolated the bacterium from diseased animals.
+	- **Conclusion** — *Mycobacterium tuberculosis* is the cause of tuberculosis — then the leading cause of death in Europe. Announced on 24 March 1882, now commemorated as World Tuberculosis Day.
+	- **Opposition** — the medical establishment had long debated whether TB was hereditary or contagious. Koch's evidence was overwhelming and acceptance was rapid.
+- **Cholera (1883)**
+	- **Experiment** — led a German expedition to Egypt and India during cholera outbreaks. Isolated a comma-shaped bacterium from the intestines of cholera victims and contaminated water sources. Identified *Vibrio cholerae* as the causative agent.
+	- **Conclusion** — cholera is caused by *Vibrio cholerae* transmitted through contaminated water. Supported John Snow's earlier epidemiological evidence (1854).
+	- **Opposition** — Max von Pettenkofer refused to accept the bacteriological explanation of cholera, insisting environmental factors were primary. He famously drank a culture of *V. cholerae* and did not develop severe cholera — likely due to prior immunity. He continued opposing germ theory until his death.
+- **Koch's Postulates (1884)**
+	- Formalised the logical criteria for proving a microorganism causes a specific disease:
+		- The organism must be found in all cases of the disease.
+		- It must be isolated from the diseased host and grown in pure culture.
+		- The pure culture must cause the disease when introduced into a healthy susceptible host.
+		- The organism must be re-isolated from the experimentally diseased host and shown identical to the original.
+	- These postulates became the methodological backbone of infectious disease microbiology.
+	- **Limitations** — Koch himself recognised exceptions: healthy carriers of *V. cholerae* and *Salmonella typhi* had the organism without disease. Viruses cannot be grown in pure culture by conventional methods. Modern "molecular Koch's Postulates" (Falkow, 1988) have updated the framework for the genomic era.
+- **Rivalry with Pasteur**
+	- Koch and Pasteur had a fierce professional rivalry — partly scientific, partly driven by Franco-German nationalism following the 1870 war. Koch criticised Pasteur's anthrax vaccine methods; Pasteur attacked Koch's cholera work. Their rivalry drove both to higher standards and faster publication.
+- **Legacy**
+	- Pure culture technique, solid media, bacterial staining, and Koch's Postulates define the methodological core of classical microbiology. His identification of TB's cause remains one of the most consequential moments in medical history.
+- **Parent**
+	- [Microbiology Golden Age (1857–1914)](/courses/microbiology-discovery-age-1600s-1800s/microbiology-transition-age-1800s/microbiology-golden-age-1857-1914.html)

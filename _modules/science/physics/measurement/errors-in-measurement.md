@@ -1,0 +1,18 @@
+- No measurement is perfectly accurate — **every measurement carries some error**.
+- Types of Errors
+	- Systematic Errors
+		- Occur **consistently in the same direction** due to faulty instruments or flawed methods.
+		- Examples
+			- Zero error in a scale
+			- Wrongly calibrated instrument
+		- Can be **corrected** once identified.
+	- Random Errors
+		- **Vary unpredictably** from one reading to another.
+		- Caused by slight changes in conditions, human judgment, etc.
+		- Reduced by **taking multiple readings and averaging** them.
+	- Least Count Error
+		- The **smallest value measurable** by an instrument is its **least count**.
+		- All measurements are only as precise as the **least count** of the instrument.
+		- Example — a ruler with mm markings has a least count of 1 mm.
+- Parent
+	- [Measurement](/courses/science/physics/measurement.html)

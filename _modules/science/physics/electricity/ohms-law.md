@@ -1,0 +1,19 @@
+- **Fundamental Idea**
+	- At constant temperature, the current through a conductor is directly proportional to the voltage across it.
+- **Qualitative Explanation**
+	- Double the voltage across a resistor and exactly double the current flows — the ratio $V/I$ stays constant. This constant ratio is the resistance of the conductor. Not all materials obey this — diodes, LEDs, and filament bulbs have non-linear V–I relationships and are called non-ohmic. Ohm's Law is an empirical rule that holds well for metals at constant temperature, not a universal law.
+- **Generalisation**
+	- Ohm's Law breaks down when temperature changes significantly (resistance of a filament bulb increases as it heats up), and for all semiconductor devices. It is a useful approximation for metallic conductors under stable conditions, but engineers must check whether a component is ohmic before applying it.
+- **Derivation**
+	- Experimental observation: for a metallic conductor at constant temperature:
+	- $I \propto V$
+	- Introduce proportionality constant $\dfrac{1}{R}$: $I = \dfrac{V}{R}$
+	- Rearranging: $V = IR$
+	- $R$ is constant for an ohmic conductor at constant temperature.
+- **Quantitative Form**
+	- $V = IR$
+	- V–I graph: straight line through origin; slope = $R$
+	- Ohmic conductor — constant $R$, linear graph (e.g. fixed resistor, copper wire)
+	- Non-ohmic — $R$ varies, curved graph (e.g. diode, LED, filament bulb)
+- **Parent**
+	- [Electricity](/courses/science/physics/electricity.html)

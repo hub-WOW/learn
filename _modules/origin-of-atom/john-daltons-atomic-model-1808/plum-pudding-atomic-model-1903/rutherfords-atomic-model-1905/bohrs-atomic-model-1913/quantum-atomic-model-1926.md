@@ -1,0 +1,14 @@
+- Made by Erwin Schrodinger.
+  id:: 69cffcdf-d115-40d4-bccd-c2ab641a42e5
+- [:a {:href "https://science.howstuffworks.com/atom8.htm", :rel "noopener", :target "_blank"} [:div {} [:img {:src "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.hswstatic.com%2Fgif%2Fatom-quantum.jpg&f=1&nofb=1&ipt=37ad62233ee64c82d0896d61a18b5607abbf3aaa42eccafadd349419cd53a7a8", :alt "Electrons Can Behave as Waves: The Quantum Model of the Atom - How ...", :loading "eager"}]]]
+- ## Claims
+	- Atom is the smallest particle of matter which contains 2 parts: nuclear, and extra-nuclear.
+	- Nucleus contains protons and neutron. Entire mass of atom in the nucleus.
+	- Extra-nuclear part has electrons. Electrons orbit the nucleus in fixed paths known as shells. Electrons are negatively charged.
+	- Protons are positively charged, thus the nucleus is positively charged.
+	- When an electron loses energy, it goes from inner to outer orbit and vice versa.
+	- Atoms have equal number of protons and electrons. Charges are equal, atom is neutral and stable.
+	-
+- Parent
+	- [Bohr's Atomic Model (1913)](/courses/origin-of-atom/john-daltons-atomic-model-1808/plum-pudding-atomic-model-1903/rutherfords-atomic-model-1905/bohrs-atomic-model-1913.html)
+	- [Language of Chemistry](/courses/science/chemistry/language-of-chemistry.html)

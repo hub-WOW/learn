@@ -1,0 +1,12 @@
+- When a substance absorbs or releases heat, it can **change its state** without changing temperature.
+- The heat involved is called **Latent Heat** — it is "hidden" as it causes no temperature change.
+- [:a {:href "https://learninglab.rmit.edu.au/chemistry/matter/physical-chemical-changes/", :rel "noopener", :target "_blank"} [:div {} [:img {:src "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Frmitlibrary.github.io%2Fcdn%2Flearninglab%2Fimages%2F1355-cartoon-Change-of-states.gif&f=1&nofb=1&ipt=f9b4a8bf4ce3473b96b05251610e00e11312414ac1077f6dfc63cc8c8ceb1c86", :alt "Physical and chemical changes - Learning Lab - RMIT University", :loading "eager"}]]]
+	- file:///Applications/Logseq.app/Contents/Resources/app/electron.html#/graph
+- Latent Heat of Fusion
+	- Heat absorbed when **1 kg of solid melts** at constant temperature.
+	- Water: $L_f$ = 3.36 × 10⁵ J/kg
+- Latent Heat of Vaporisation
+	- Heat absorbed when **1 kg of liquid vaporises** at constant temperature.
+	- Water: $L_v$ = 2.26 × 10⁶ J/kg
+- Parent
+	- [Heat](/courses/science/physics/heat.html)

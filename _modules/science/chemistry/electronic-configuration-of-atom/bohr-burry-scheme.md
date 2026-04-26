@@ -1,0 +1,11 @@
+- It is the distribution of electrons according to shells.
+- [:a {:href "https://newtondesk.com/electron-configuration-of-elements/", :rel "noopener", :target "_blank"} [:div {} [:img {:src "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.newtondesk.com%2Fwp-content%2Fuploads%2F2021%2F10%2Fatom-nucleus-with-electron-shells-bohr-bury-energy-level.png&f=1&nofb=1&ipt=9ddf4bb76c238536c9b7157a2fa0c5a774ab54e89c617a08d44dfda83f188d70", :alt "Electron Configuration of Elements - Chemistry Periodic Table", :loading "eager"}]]]
+- Rules
+	- Shells start from near the nucleus
+	- Shells are named K, L, M, N.
+	- The orbits get filled from inside to outside.
+	- Only if an orbit is filled, electrons will fill the next level.
+	- Outermost shell is known as valence shell.
+	- The energy level of shells increases from inside to outside.
+- Parent
+	- [Electronic Configuration of Atom](/courses/science/chemistry/electronic-configuration-of-atom.html)

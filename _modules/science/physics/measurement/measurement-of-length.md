@@ -1,0 +1,15 @@
+- The **SI unit of length is metre (m)**.
+- Tools
+	- Ruler / Metre Scale — for lengths in cm and mm
+	- Vernier Calliper — precision up to **0.1 mm**
+	- Screw Gauge (Micrometer) — precision up to **0.01 mm**
+- Very Large Distances (Astronomical)
+	- Astronomical Unit (AU) — average Earth–Sun distance ≈ 1.5 × 10¹¹ m
+	- Light Year — distance light travels in one year ≈ 9.46 × 10¹⁵ m
+	- Parsec — 3.26 light years
+- Very Small Distances (Atomic / Nuclear)
+	- Nanometre (nm) — 10⁻⁹ m
+	- Angstrom (Å) — 10⁻¹⁰ m
+	- Fermi (fm) — 10⁻¹⁵ m
+- Parent
+	- [Measurement](/courses/science/physics/measurement.html)

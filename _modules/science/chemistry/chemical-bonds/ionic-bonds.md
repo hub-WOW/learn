@@ -1,0 +1,13 @@
+- Ionic Bond (Electrovalent Bond) is a bond formed by exchange of electrons between 2 atoms.
+- Driven by force of attraction (charge).
+- Characteristics
+	- Strongest Bond.
+	- Higher Melting Point
+	- Higher Boiling Point
+	- Polar in Nature. Soluble in water. Have partial positive (+) and negative charges (-) inside molecule.
+	- Hard Crystalline Solids
+	- Usually formed between metals and non-metals.
+	- Formed always between anions (-) and cations (+).
+- Parent
+	- [Chemical Bonds](/courses/science/chemistry/chemical-bonds.html)
+	- [Ions](/courses/science/chemistry/language-of-chemistry/ions.html)

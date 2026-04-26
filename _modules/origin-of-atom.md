@@ -1,0 +1,1 @@
+- Democritus, a Greek philosopher, created a concept of something so small that it can't be divided further. It was named 'Atomos', which later got renamed to 'Atom'.

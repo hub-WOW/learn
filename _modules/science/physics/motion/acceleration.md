@@ -1,0 +1,20 @@
+- **Fundamental Idea**
+	- Acceleration is the rate of change of velocity with respect to time.
+- **Qualitative Explanation**
+	- Velocity is not always constant — a braking car slows down, a dropped stone speeds up, a turning car changes direction. All of these are accelerations. Acceleration is to velocity what velocity is to position: it measures how fast the previous quantity is changing. Because velocity is a vector, any change in speed or direction (or both) constitutes acceleration.
+- **Generalisation**
+	- Acceleration does not require a change in speed — a change in direction alone is sufficient. This is why circular motion at constant speed still involves acceleration (centripetal acceleration). In fact, any curved path involves acceleration.
+- **Derivation**
+	- Velocity changes from $u$ to $v$ over time $t$:
+	- $a = \dfrac{v - u}{t}$
+	- Rearranging: $v = u + at$ — this is the first equation of motion (see [Equations of Motion](/courses/science/physics/motion/equations-of-motion.html)).
+	- Centripetal acceleration (circular motion at constant speed $v$, radius $r$):
+		- As the velocity vector rotates, the limit of $\Delta v / \Delta t$ as $\Delta t \to 0$ gives $a_c = \dfrac{v^2}{r}$, directed toward the centre.
+- **Quantitative Form**
+	- $a = \dfrac{v - u}{t}$, SI unit — m/s²
+	- $a_c = \dfrac{v^2}{r}$ for circular motion
+	- Positive $a$ — speeding up (in the direction of motion)
+	- Negative $a$ (retardation/deceleration) — slowing down
+	- Uniform acceleration — equal velocity changes in equal time intervals (e.g. free fall: $a = g = 9.8$ m/s²)
+- **Parent**
+	- [Motion](/courses/science/physics/motion.html)

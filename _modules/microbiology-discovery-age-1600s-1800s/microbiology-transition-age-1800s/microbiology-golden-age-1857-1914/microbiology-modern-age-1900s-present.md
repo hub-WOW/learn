@@ -1,0 +1,54 @@
+- **Context**
+	- Germ theory and pure culture techniques had identified the major pathogens. The new question was: how do microorganisms work at the molecular and genetic level — and can we control or harness them?
+- **Scientists**
+	- **Alexander Fleming** (1881–1955)
+		- Experiment — returned from holiday to find a contaminating mould (*Penicillium notatum*) had grown on a Staphylococcus culture plate. Noticed a clear halo around the mould where bacterial growth was inhibited (1928). Isolated the active substance and named it penicillin.
+		- Conclusion — the mould produced a diffusible substance lethal to bacteria. Published findings but could not purify it for clinical use.
+		- Opposition — Fleming's work was largely overlooked for over a decade. Florey and Chain at Oxford purified and tested penicillin clinically (1940–1941), proving its power. All three shared the Nobel Prize in 1945.
+	- **Oswald Avery** (1877–1955)
+		- Experiment — built on Griffith's transformation experiment. Griffith (1928) had shown a "transforming principle" from dead virulent bacteria could make live non-virulent bacteria deadly. Avery's team systematically destroyed DNA, RNA, and protein from the extract separately and tested which destruction eliminated the transforming ability. Only DNase destroyed it (1944).
+		- Conclusion — DNA, not protein, is the genetic material.
+		- Opposition — many scientists, including influential figures like Alfred Mirsky, disputed the result and insisted protein was the genetic material. Full acceptance came only after the Hershey–Chase experiment (1952) and Watson–Crick (1953).
+	- **Max Delbrück, Salvador Luria, Alfred Hershey** — the Phage Group
+		- Experiments — used bacteriophages (viruses that infect bacteria) as model systems to study genetics. Luria–Delbrück experiment (1943) proved mutations arise randomly, not in response to selection. Hershey–Chase experiment (1952) used radioactive labels to show phage DNA — not protein — enters the bacterial cell during infection.
+		- Conclusion — established the randomness of mutation and confirmed DNA as genetic material in viruses. Founded bacterial and viral genetics.
+		- Opposition — none significant after Hershey–Chase; it was decisive.
+	- **James Watson and Francis Crick** (with Rosalind Franklin's X-ray data)
+		- Experiment — used X-ray crystallography data (Franklin's Photo 51) and model building to determine the structure of DNA (1953).
+		- Conclusion — DNA is a double helix with complementary base pairing — immediately suggesting a copying mechanism. Nobel Prize 1962 (Franklin died in 1958 and was not included).
+		- Opposition — Linus Pauling had proposed a triple helix model; it was quickly shown to be wrong. Franklin's contribution was used without her full knowledge, a source of lasting controversy.
+	- **Stanley Cohen and Herbert Boyer** (1972–1973)
+		- Experiment — combined restriction enzymes (discovered by Arber and Smith) with plasmid vectors to cut and paste DNA from different organisms into *E. coli*. Created the first recombinant DNA organism.
+		- Conclusion — genes can be transferred between unrelated organisms; bacteria can be engineered to produce foreign proteins. Founded the biotechnology industry.
+		- Opposition — significant public and scientific concern about biosafety led to the Asilomar Conference (1975), where scientists voluntarily paused recombinant DNA research to assess risks before continuing.
+	- **Carl Woese** (1928–2012)
+		- Experiment — sequenced 16S ribosomal RNA from a wide range of organisms (1977). rRNA is highly conserved and present in all life — changes accumulate slowly, making it a reliable molecular clock for evolutionary distance.
+		- Conclusion — life divides into three fundamental domains: Bacteria, Archaea, and Eukarya — not two (prokaryotes and eukaryotes). Archaea, though superficially similar to bacteria, are as different from bacteria as they are from eukaryotes.
+		- Opposition — the established microbiological community resisted heavily for over a decade; many refused to accept Archaea as a separate domain. Eventually became universally accepted.
+	- **Kary Mullis** (1944–2019)
+		- Experiment — conceived and developed the polymerase chain reaction (PCR) in 1983 — a method to amplify specific DNA sequences exponentially using repeated cycles of heating and cooling with a thermostable DNA polymerase.
+		- Conclusion — any DNA sequence present in trace amounts can be amplified to detectable quantities. Transformed diagnostics, forensics, research, and clinical medicine. Nobel Prize 1993.
+		- Opposition — none to the technique itself; Mullis's own later career was controversial due to his rejection of HIV as the cause of AIDS and other fringe positions.
+	- **Jennifer Doudna and Emmanuelle Charpentier** (2012)
+		- Experiment — characterised the CRISPR-Cas9 system, originally a bacterial immune mechanism, and re-engineered it as a programmable gene-editing tool — capable of cutting DNA at any specified sequence.
+		- Conclusion — precise, cheap, and broadly applicable gene editing is possible in any organism. Nobel Prize 2020.
+		- Opposition — immediate controversy over patents (Feng Zhang/Broad Institute vs Doudna/Berkeley) and ethical concerns about germline editing in humans (He Jiankui affair, 2018).
+- **Impact**
+	- Antibiotics transformed infectious disease mortality. Molecular biology was born from microbial systems. Recombinant DNA and PCR created biotechnology and modern diagnostics. CRISPR opened programmable biology. The three-domain tree of life replaced the two-kingdom view.
+- **Timeline**
+	- 1928 — Fleming discovers penicillin.
+	- 1940–41 — Florey and Chain develop penicillin clinically.
+	- 1943 — Luria–Delbrück experiment proves mutations are random.
+	- 1944 — Avery proves DNA is the genetic material.
+	- 1952 — Hershey–Chase experiment confirms DNA carries genetic information.
+	- 1953 — Watson and Crick describe the double helix.
+	- 1973 — Cohen and Boyer create first recombinant DNA organism.
+	- 1975 — Asilomar Conference on recombinant DNA safety.
+	- 1977 — Woese proposes three-domain tree of life.
+	- 1983 — Mullis invents PCR.
+	- 1995 — First complete bacterial genome sequenced (*Haemophilus influenzae*).
+	- 2012 — CRISPR-Cas9 developed as a gene-editing tool.
+	- 2018 — He Jiankui affair; first (illegal) human germline editing.
+- **Parent**
+	- [Microbiology Golden Age (1857–1914)](/courses/microbiology-discovery-age-1600s-1800s/microbiology-transition-age-1800s/microbiology-golden-age-1857-1914.html)
+	- [Microbiology](/courses/science/biology/microbiology.html)

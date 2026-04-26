@@ -1,0 +1,9 @@
+- [:a {:href "https://www.ch.ic.ac.uk/local/projects/unwin/", :rel "noopener", :target "_blank"} [:div {} [:img {:src "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.ch.ic.ac.uk%2Flocal%2Fprojects%2Funwin%2Fc76.GIF&f=1&nofb=1&ipt=b22a2811899d2fae27ff113677b64df0a5af4c9879efee92cf67236a23aa196c", :alt "Fullerenes: An Overview", :loading "eager"}]]]
+- Physical
+	- Hexagons and Pentagons in sphere shape.
+	- Ranges from $C_{90}$ to $C_{300}$
+	- Found in interstellar dust (Buckminster).
+	- Soluble in many solvents.
+	- Used in Flat TV Screens.
+- Parent
+	- [Allotropes of Carbon](/courses/science/chemistry/organic-chemistry/allotropes-of-carbon.html)

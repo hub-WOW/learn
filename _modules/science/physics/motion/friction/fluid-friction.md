@@ -1,0 +1,18 @@
+- **Fundamental Idea**
+	- Fluid friction (drag) is the resistive force a fluid exerts on an object moving through it, opposing the direction of motion.
+- **Qualitative Explanation**
+	- As an object moves through a fluid, it must push fluid out of its way. The fluid pushes back — this is drag. Unlike surface friction, fluid friction depends strongly on speed (increases with velocity) and on how streamlined the object is. A flat plate pushed face-on experiences far more drag than a teardrop-shaped body at the same speed.
+- **Generalisation**
+	- Fluid friction applies in both liquids and gases. At low speeds, drag is proportional to velocity (viscous drag, Stokes' Law); at higher speeds, it is proportional to velocity squared (pressure drag). Terminal velocity — the speed at which drag equals gravitational force — is a direct consequence of drag increasing with speed until equilibrium is reached.
+- **Derivation**
+	- Stokes' Law (low speed, spherical object): $F_d = 6\pi\eta r v$
+		- $\eta$ = fluid viscosity, $r$ = radius, $v$ = speed
+	- Terminal velocity: at terminal velocity $v_t$, drag = weight → $F_d = mg$, so acceleration = 0.
+	- For a sphere: $v_t = \dfrac{2r^2(\rho_{object} - \rho_{fluid})g}{9\eta}$
+- **Quantitative Form**
+	- Stokes drag (low speed): $F_d = 6\pi\eta r v$
+	- Pressure drag (high speed): $F_d = \frac{1}{2}C_d \rho A v^2$ ($C_d$ = drag coefficient, $A$ = cross-sectional area)
+	- Terminal velocity: $v_t$ when $F_d = mg$
+	- Streamlined shapes (fish, aircraft wings, sports cars) minimise $C_d$.
+- **Parent**
+	- [Friction](/courses/science/physics/motion/friction.html)

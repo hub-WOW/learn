@@ -1,0 +1,15 @@
+- [:a {:href "https://sciencesolve.blogspot.com/2015/09/diamond-structure.html", :rel "noopener", :target "_blank"} [:div {} [:img {:src "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F4.bp.blogspot.com%2F-fdMOZq_lGNo%2FVfRPcn2agII%2FAAAAAAAAABg%2FZsgbXTmKfyw%2Fs1600%2FDiamond%252BSturcuter.png&f=1&nofb=1&ipt=21fed07a0fc143123b9671a33364f1f93881504c867f76d671c1cf641c284a62", :alt "Diamond Structure - EveryDay", :loading "eager"}]]]
+- Physical Properties
+	- Tetrahedral Form
+	- Hardest Allotrope of Carbon. Structure allows no movement of carbon.
+	- Melts at 3500 degrees Celcius
+	- Burns at 800 to 850 degrees Celcius
+	- Density is 3 to 5g/cc.
+	- Bad Conductor of Heat
+	- Bad Conductor of Electricity
+	- Value is bad on Cut, Karat, Clarity, Colour
+	- Crystalline Covalent Bonds
+- Chemical Properties
+	- Forms $CO_2$ after burning.
+- Parent
+	- [Allotropes of Carbon](/courses/science/chemistry/organic-chemistry/allotropes-of-carbon.html)

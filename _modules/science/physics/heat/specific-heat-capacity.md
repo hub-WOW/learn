@@ -1,0 +1,22 @@
+- **Specific Heat Capacity (c)** is the heat required to raise **1 kg of a substance by 1 K**.
+- Derivation
+	- Experimentally, heat absorbed Q is proportional to mass and temperature change:
+	- $Q \propto m$ and $Q \propto \Delta T$
+	- Combining: $Q \propto m\Delta T$
+	- Introducing proportionality constant c (specific heat capacity):
+	- $Q = mc\Delta T$
+- Variables
+	- Q = Heat energy (J)
+	- m = Mass (kg)
+	- c = Specific Heat Capacity (J/kg·K)
+	- ΔT = Change in temperature (K or °C)
+- Higher c → more heat needed to change temperature.
+- Values
+	- | Substance | c (J/kg·K) |
+	- |---|---|
+	- | Water | 4200 |
+	- | Air | 1005 |
+	- | Iron | 450 |
+	- | Copper | 385 |
+- Parent
+	- [Heat](/courses/science/physics/heat.html)

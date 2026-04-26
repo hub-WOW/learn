@@ -1,0 +1,50 @@
+- Functional groups are **specific atoms or groups of atoms in an organic molecule** that determine the **characteristic chemical reactions** of that compound.
+- Carboxylic Acid
+	- Functional Group: $–COOH$
+	- Example
+		- $CH_3COOH$ is called Acetic Acid.
+		- $COOH-COOH$ is called Oxalic Acid.
+- Aldehyde
+	- Functional Group: $–CHO$
+	- Example
+		- $CH_3CHO$ is called Ethanal.
+		- $HCHO$ is called Methanal.
+- Ketone
+	- Functional Group: $–CO–$
+	- Example
+		- $CH_3-CO-CH_3$ is called Propanone.
+		- $CH_3-CH_2-CO-CH_3$ is called Butanone.
+- Alcohol
+	- Functional Group: $–OH$
+	- Example
+		- $C_2H_5OH$ is called Ethanol.
+		- $CH_3OH$ is called Methanol.
+- Ether
+	- Functional Group: $–O–$
+	- Example
+		- $CH_3-O-CH_3$ is called dimethyl ether.
+		- $CH_3-CH_2-O-CH_3$ is called ethyl-methyl ether.
+- Ester
+	- Functional Group: $–COO–$
+	- Example
+		- $CH_3-COO-CH_2-CH_3$
+		- $CH_3-COO-CH_3$
+- Amine
+	- Functional Group: $–NH₂$
+	- Example
+		- $CH_3NH_2$ is called methyl amine.
+		- $NH_2-CH_2-COOH$ is known as Glycene.
+- Alkene
+	- Functional Group: $C=C$
+	- General Formula: $C_nH_{2n}$
+	- Example
+		- $C_2H_4$ is called Ethene.
+		- $C_3H_6$ is called Propene.
+- Alkyne
+	- Functional Group: $C≡C$
+	- General Formula: $C_nH_{2n-2}$
+	- Example
+	- $C_2H_2$ is called Ethyne.
+	- $C_3H_4$ is called Propyne.
+- Parent
+	- [Organic Chemistry](/courses/science/chemistry/organic-chemistry.html)

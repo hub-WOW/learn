@@ -1,0 +1,18 @@
+- **Fundamental Idea**
+	- Electric current is the rate of flow of electric charge through a cross-section of a conductor.
+- **Qualitative Explanation**
+	- In a metal conductor, electrons are free to move. When a potential difference is applied across the conductor, these free electrons drift in a net direction — this directed drift of charge is electric current. Conventionally, current direction is taken as opposite to electron flow (from + to − terminal externally), a historical convention from before electrons were discovered.
+- **Generalisation**
+	- Current is the same quantity whether in a wire, an electrolyte (ionic current), or a semiconductor. In AC (alternating current), the direction reverses periodically — in India at 50 Hz — and the electrons don't actually travel along the wire; they oscillate. Energy is transferred by the electromagnetic field, not by bulk electron movement.
+- **Derivation**
+	- If charge $Q$ flows past a cross-section in time $t$:
+	- $I = \dfrac{Q}{t}$
+	- Rearranged: $Q = It$ — useful for finding total charge transferred.
+- **Quantitative Form**
+	- $I = \dfrac{Q}{t}$
+	- SI unit — Ampere (A); $1 \text{ A} = 1 \text{ C/s}$
+	- DC — flows in one direction only (batteries, cells)
+	- AC — reverses direction periodically; household supply in India: 230 V, 50 Hz
+	- Measured with an **Ammeter**, connected in **series**.
+- **Parent**
+	- [Electricity](/courses/science/physics/electricity.html)

@@ -1,0 +1,34 @@
+- Change in Physical State
+	- Example
+		- $2H_2(g) + O_2 (g) \rightarrow 2H_2O(l)$
+		- $NH_3 (g) + HCl (g) \rightarrow NH_4Cl (s)$
+- Change in Colour
+	- Example
+		- $CuCO_3 (Green) \xrightarrow{\Delta} CuO (Black) + CO_2$
+- Change in Energy
+	- Happens usually with heat.
+	- Exothermic
+		- Heat is given out.
+		- Temperature increases.
+		- Example
+			- $C+O_2 \rightarrow CO_2$
+			- $2Mg + O_2 \rightarrow 2MgO$
+			- $NH_4OH + HCl \rightarrow NH_4Cl + H_2O$
+	- Endothermic
+		- Heat is taken in from the environment.
+		- Temperature drops.
+		- Example
+			- Photosynthesis
+			- $NH_4NO_3(s)+H_2O(l)\rightarrow NH_4NO_3(aq)$
+- Formation of Precipitate
+	- Solid get deposited below.
+	- Example
+		- $AgNO_3 + HCl \rightarrow AgCl \downarrow + HNO_3$
+		- $Ca(OH)_2 \rightarrow CaO \downarrow + H_2O$
+- Evolution of Gas
+	- In reactions with liquids, the gas bubbles out (evolves) which is known as brisk effervescence.
+	- Usually found in Metal + Acid or Neutralisation Reactions.
+	- Example
+		- $Zn + 2HCl \rightarrow ZnCl_2 + H_2 \uparrow$
+- Parent
+	- [Chemical Reactions](/courses/science/chemistry/language-of-chemistry/chemical-reactions.html)

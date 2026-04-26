@@ -1,0 +1,13 @@
+- John Dalton (French), created this atomic model in 1808.
+- [:a {:href "https://www.slideserve.com/marianne-mercier/atoms-the-building-blocks-of-matter", :rel "noopener", :target "_blank"} [:div {} [:img {:src "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimage3.slideserve.com%2F6384515%2Fdalton-s-model-of-atom-1803-l.jpg&f=1&nofb=1&ipt=8033caef6510bd6045845a8a6ebc325c76c3366cf3ffb72ffcaa60c6ad8b65f8", :alt "PPT - Atoms: The Building Blocks of Matter PowerPoint Presentation ...", :loading "eager"}]]]
+- ## Claims
+	- All matter is made of atoms.
+	- All atoms of all elements are identical in mass and properties
+	- Atoms of an element combine with atoms of other elements in a fixed ratio.
+	- Atoms can't be divided.
+	- Atoms cannot be destroyed nor created.
+- ## Drawbacks
+	- Atoms can be divided into protons, electrons and neutrons.
+	- Very Less Experimentation
+- Parent
+	- [Origin of 'Atom'](/courses/origin-of-atom.html)

@@ -1,0 +1,44 @@
+- The human ear is the **organ responsible for hearing and maintaining balance**.
+- It converts **sound waves into nerve signals** that the brain can interpret.
+- [:a {:href "https://www.researchgate.net/figure/Diagram-showing-the-structure-of-the-human-ear-detailing-the-parts-of-the-outer_fig1_324547019", :rel "noopener", :target "_blank"} [:div {} [:img {:src "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.researchgate.net%2Fprofile%2FBenjamin_Gorman2%2Fpublication%2F324547019%2Ffigure%2Fdownload%2Ffig1%2FAS%3A616179634798592%401523920081283%2FDiagram-showing-the-structure-of-the-human-ear-detailing-the-parts-of-the-outer.png&f=1&nofb=1&ipt=312b047b84da72097bb4c0a0ced01f3832e7ad1e114a360ec8dd1d55c931a9d6", :alt "1: Diagram showing the structure of the human ear, detailing the parts ...", :loading "eager"}]]]
+- Main Parts of the Ear
+	- Outer Ear
+	- Middle Ear
+	- Inner Ear
+- Outer Ear
+	- Pinna (Auricle)
+		- The **visible external part** of the ear.
+		- Made of cartilage.
+		- Function
+			- **Collects sound waves** from the surroundings.
+			- Directs them into the ear canal.
+	- Ear Canal (Auditory Canal)
+		- A **tube-like passage** leading from the pinna to the eardrum.
+		- Function
+			- **Carries sound waves** to the eardrum.
+			- Contains **earwax (cerumen)** which traps dust and microbes.
+- Middle Ear
+	- Eardrum (Tympanic Membrane)
+		- A **thin, stretched membrane** separating the outer ear and middle ear.
+		- Function
+			- **Vibrates when sound waves strike it**.
+			- Converts sound waves into mechanical vibrations.
+	- Ear Ossicles
+		- Three very small bones in the middle ear
+			- Malleus (Hammer)
+			- Incus (Anvil)
+			- Stapes (Stirrup)
+		- Function
+			- **Transmit and amplify vibrations** from the eardrum to the inner ear.
+- Inner Ear
+	- Cochlea
+		- A **spiral-shaped fluid-filled structure**.
+		- Function
+			- Converts vibrations into **electrical nerve signals**.
+	- Auditory Nerve
+		- A nerve connecting the cochlea to the brain.
+		- Function
+			- **Carries sound signals to the brain** for interpretation.
+- Parent
+	- [Sound](/courses/science/physics/waves/sound.html)
+	- [Biology](/courses/science/biology.html)

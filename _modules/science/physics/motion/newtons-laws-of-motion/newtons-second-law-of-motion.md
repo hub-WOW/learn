@@ -1,0 +1,18 @@
+- **Fundamental Idea**
+	- The net force on an object equals the rate of change of its momentum; for constant mass, force equals mass times acceleration.
+- **Qualitative Explanation**
+	- Push harder and an object accelerates more. Push the same object when it is heavier and it accelerates less. These two observations — $a \propto F$ and $a \propto 1/m$ — combine into the Second Law. More fundamentally, force is what changes momentum ($p = mv$). The Second Law doesn't just give a formula; it defines what "force" means quantitatively.
+- **Generalisation**
+	- The full form $F = \dfrac{\Delta p}{\Delta t}$ handles variable-mass systems (rockets expelling fuel) and relativistic contexts (where mass effectively changes with speed) better than $F = ma$. For everyday constant-mass problems, $F = ma$ is exact.
+- **Derivation**
+	- Experimentally: $a \propto F$ and $a \propto \dfrac{1}{m}$, so $a \propto \dfrac{F}{m}$
+	- Define force as the quantity that makes this an equality: $F = ma$
+	- More generally, momentum $p = mv$, so:
+		- $F = \dfrac{\Delta p}{\Delta t} = \dfrac{m(v - u)}{t} = ma$ (for constant mass)
+- **Quantitative Form**
+	- $\vec{F} = m\vec{a}$ (constant mass)
+	- $\vec{F} = \dfrac{\Delta \vec{p}}{\Delta t}$ (general form)
+	- SI unit of force — Newton (N); $1 \text{ N} = 1 \text{ kg·m/s}^2$
+	- $p = mv$, SI unit — kg·m/s
+- **Parent**
+	- [Newton's Laws of Motion](/courses/science/physics/motion/newtons-laws-of-motion.html)

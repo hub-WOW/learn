@@ -1,0 +1,12 @@
+- [:a {:href "http://tajpharma.com/tajapi/Benzene.htm", :rel "noopener", :target "_blank"} [:div {} [:img {:src "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.tajapi.com%2Fnew%2520update1%2Fbenzene.jpg&f=1&nofb=1&ipt=54fe84f207bbfd854feee5e75c51a9317ede70df11e5b49532d685c761324d11", :alt "Benzene manufacturers - Taj Pharmaceuticals Companies Chemicals ...", :loading "eager"}]]]
+- Physical Properties
+	- Resonance: Double Bonds Alternate
+	- Strong Structure
+	- Very Stable
+- Chemical
+	- Aniline: $C_6H_6-NH_2$
+	- Toluene: $C_6H_6-CH_3$
+	- Phenol: $C_6H_6-OH$
+	- Many derivatives
+- Parent
+	- [Functional Groups](/courses/science/chemistry/organic-chemistry/functional-groups.html)

@@ -1,0 +1,20 @@
+- Used in fuel, steel production, power generation, skincare.
+- Type of Fossil Fuel; formed over millennia over decayed matter without air.
+- Dense
+- Types
+	- Lignite
+		- Low density
+		- High impurity
+		- 60 to 70% carbon
+	- Bituminous
+		- 70 to 80% Carbon
+	- Sub-Bituminous
+		- 80 to 90% Carbon
+	- Anthracite
+		- 90 to 100% Carbon
+- Chemical Properties
+	- Forms soot after incomplete combustion.
+	- Forms coke after heating in absence of air.
+	- Forms gas carbon after heating in absence of air.
+- Parent
+	- [Allotropes of Carbon](/courses/science/chemistry/organic-chemistry/allotropes-of-carbon.html)

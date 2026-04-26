@@ -1,0 +1,10 @@
+- Wustite $(FeO)$
+	- [:a {:href "https://depositphotos.com/106725240/stock-illustration-feo-ferrous-oxide-molecule.html", :rel "noopener", :target "_blank"} [:div {} [:img {:src "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fst2.depositphotos.com%2F4532731%2F10672%2Fv%2F950%2Fdepositphotos_106725240-stock-illustration-feo-ferrous-oxide-molecule.jpg&f=1&nofb=1&ipt=2c6a479c5a9c90e882ee0ce7c565f4e2297569bbb031cabdc33f03c203a60ed6", :alt "FeO ferrous oxide molecule — Stock Vector © MariaShmitt #106725240", :loading "eager"}]]]
+	- Brown in colour
+- Haematite $(Fe_2O_3)$
+	- [:a {:href "https://express.adobe.com/page/Vkwe8A3x8pLAo/", :rel "noopener", :target "_blank"} [:div {} [:img {:src "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fexpress.adobe.com%2Fpage%2FVkwe8A3x8pLAo%2Fimages%2F6A92F1ED-D269-4E08-8652-6B62DD19C85E.png%3Fasset_id%3D4F50A022-F3C0-480E-A3FC-E25A49E543DA%26size%3D800&f=1&nofb=1&ipt=c40765dbfa17b6b5484768538c666199164d54fceea39071a8ea4c971c28ca0b", :alt "Covalent Interim", :loading "eager"}]]]
+	- Red in colour.
+- Magnetite
+	- [:a {:href "https://www.geeksforgeeks.org/chemistry/fe3o4-iron-oxide/", :rel "noopener", :target "_blank"} [:div {} [:img {:src "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.geeksforgeeks.org%2Fwp-content%2Fuploads%2F20240206164947%2FFe3O4-Structure.webp&f=1&nofb=1&ipt=167c3dd6db7aab6c15ea6de8978929a664bcd3d29d6d64c51e8bbb7a8588f827", :alt "Fe3O4 Iron (II, III) Oxide - GeeksforGeeks", :loading "eager"}]]]
+	- Black in Colour
+	- Unstable

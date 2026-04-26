@@ -1,0 +1,8 @@
+- **Time** is the **duration between two events**.
+- The **SI unit of time is second (s)**.
+- Tools
+	- Stopwatch — measures short time intervals manually
+	- Pendulum Clock — based on the periodic oscillation of a pendulum
+	- Atomic Clock — most accurate; based on vibrations of cesium atoms; used in scientific standards
+- Parent
+	- [Measurement](/courses/science/physics/measurement.html)

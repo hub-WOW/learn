@@ -1,0 +1,16 @@
+- Chemical Reaction
+	- A chemical reaction is a process in which one or more substances (reactants) are converted into new substances (products).
+	- The products are more stable than the reactants.
+	- Involves breaking of old chemical bonds and formation of new chemical bonds.
+	- Represented using a chemical equation.
+- General Form
+	- $Reactants \rightarrow Products$
+- Example
+	- $2H_2 + O_2 \rightarrow 2H_2O$
+- Important Points
+	- Atoms are rearranged during a reaction.
+	- Total mass remains conserved (Law of Conservation of Mass).
+	- Reactants are written on the left side of the arrow.
+	- Products are written on the right side of the arrow.
+- Parent
+	- [Language of Chemistry](/courses/science/chemistry/language-of-chemistry.html)

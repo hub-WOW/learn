@@ -1,0 +1,12 @@
+- **Fundamental Idea**
+	- Newton's three laws form the complete framework for classical mechanics: they define inertia, quantify force, and establish the mutual nature of all interactions.
+- **Qualitative Explanation**
+	- Before Newton, force and motion were poorly understood — it was thought that a continuous force was needed to maintain motion. Newton (building on Galileo) corrected this: force is needed only to *change* motion, not to sustain it. The three laws together answer: what happens with no force ([Newton's First Law](/courses/science/physics/motion/newtons-laws-of-motion/newtons-first-law-of-motion.html)), what happens with a net force ([Newton's Second Law](/courses/science/physics/motion/newtons-laws-of-motion/newtons-second-law-of-motion.html)), and how forces arise between objects ([Newton's Third Law](/courses/science/physics/motion/newtons-laws-of-motion/newtons-third-law-of-motion.html)).
+- **Generalisation**
+	- Classical Newtonian mechanics holds for objects moving at speeds much less than the speed of light and at scales much larger than atoms. It breaks down at relativistic speeds (special relativity) and at quantum scales (quantum mechanics).
+- **Quantitative Form**
+	- 1st Law: $\vec{F}_{net} = 0 \Rightarrow \vec{a} = 0$
+	- 2nd Law: $\vec{F} = m\vec{a}$
+	- 3rd Law: $\vec{F}_{AB} = -\vec{F}_{BA}$
+- **Parent**
+	- [Motion](/courses/science/physics/motion.html)

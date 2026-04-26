@@ -1,0 +1,17 @@
+- [:a {:href "https://www.chemistrylearner.com/aufbau-principle.html", :rel "noopener", :target "_blank"} [:div {} [:img {:src "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.chemistrylearner.com%2Fwp-content%2Fuploads%2F2021%2F10%2FAufbau-Principle.jpg&f=1&nofb=1&ipt=be6dd737f77105ecb517cab6bd177e4e40a30724fd6a1dc4cf7aaaffff0ec536", :alt "Aufbau Principle: Statement, Example, and Diagram", :loading "eager"}]]]
+- There are orbitals in each orbit.
+- Orbitals are named s, p, d, f.
+- Shapes of orbitals
+	- s: Spherical Shape
+	- p: Dumbell Shape
+	- d: Dumbell and Donut Shape
+	- f: Multi-lobed Shape
+- Orbitals are spaces where probabilty of finding an electron is the highest.
+- Electrons occupy the orbital with the lowest energy level first.
+- Trick
+	- $n$ = Orbital names (s, p, d, f) = 0, 1, 2, 3 respectively
+	- $l$ = Orbital Number (1, 2, 3, 4, 5, 6, 7)
+	- Lower $n + l$ fills up earlier. Example: 1s (1 + 0) fills before 2s (2 + 0).
+	- If, $n + l$ is same, then largest $l$ is first. Example: 6p (6 + 1) fills before 7s (7 + 0).
+- Parent
+	- [Electronic Configuration of Atom](/courses/science/chemistry/electronic-configuration-of-atom.html)

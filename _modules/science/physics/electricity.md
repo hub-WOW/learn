@@ -1,0 +1,12 @@
+- **Fundamental Idea**
+	- Electricity is the set of physical phenomena arising from the presence and flow of electric charge.
+- **Qualitative Explanation**
+	- Matter contains charged particles — protons (positive) and electrons (negative). Normally these balance, leaving objects neutral. When charge is separated or made to flow, electrical phenomena arise: static charge builds up, currents flow through conductors, and energy is transferred. A sustained current requires both a source of energy (EMF) and a closed conducting path.
+- **Generalisation**
+	- Electricity underlies all of chemistry (electron interactions between atoms), most of modern technology (circuits, computing, communication), and biological function (nerve impulses, heart signals). The same principles of charge, current, resistance, and energy apply from a simple torch to a national power grid.
+- **Quantitative Form**
+	- Built on: [Electric Charge](/courses/science/physics/electricity/electric-charge.html) → [Electric Current](/courses/science/physics/electricity/electric-current.html) → [Voltage and EMF](/courses/science/physics/electricity/voltage-and-emf.html) → [Resistance](/courses/science/physics/electricity/resistance.html) → [Ohm's Law](/courses/science/physics/electricity/ohms-law.html)
+	- Circuit behaviour: [Electric Circuits](/courses/science/physics/electricity/electric-circuits.html), [Resistors in Series and Parallel](/courses/science/physics/electricity/resistance/resistors-in-series-and-parallel.html)
+	- Energy and power: [Electric Power and Energy](/courses/science/physics/electricity/electric-power-and-energy.html), [Joule's Law of Heating](/courses/science/physics/electricity/electric-power-and-energy/joules-law-of-heating.html)
+- **Parent**
+	- [Physics](/courses/science/physics.html)

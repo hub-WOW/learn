@@ -1,0 +1,32 @@
+- **Context**
+	- Leeuwenhoek's discovery created an urgent question: where do microorganisms come from? Spontaneous generation — the ancient idea that life arises from non-living matter — had survived Redi's experiment by retreating to the microscopic scale. This era is defined by the battle to settle that question, and by the first hints that microbes cause disease.
+- **Scientists**
+	- **John Needham** (1713–1781)
+		- Experiment — boiled chicken broth and sealed the flasks. After some time, microbial growth appeared. Concluded life had arisen spontaneously from the broth.
+		- Conclusion — spontaneous generation occurs even in boiled, sealed flasks.
+		- Opposition — [Lazzaro Spallanzani](/courses/lazzaro-spallanzani.html) repeated the experiment with more rigorous sealing and longer boiling; flasks remained clear. Needham's defenders countered that prolonged boiling destroyed a "vital principle" in the air necessary for life — keeping the debate alive.
+	- **Lazzaro Spallanzani** (1729–1799)
+		- Experiment — boiled broth in flasks and sealed them hermetically before boiling. Flasks stayed sterile indefinitely. When opened, microbial growth returned.
+		- Conclusion — microorganisms come from the air, not from the broth itself. Spontaneous generation does not occur in properly sealed, boiled flasks.
+		- Opposition — critics, including Needham, argued the sealing process altered or destroyed the "vital air" inside the flask, making the experiment unfair. This objection stood unrefuted until Pasteur.
+	- **Agostino Bassi** (1773–1856)
+		- Experiment — investigated muscardine disease killing silkworms in northern Italy. Observed a white powdery substance on infected silkworms; transferred material from diseased to healthy silkworms and reproduced the disease. Identified the agent as a parasitic fungus (*Beauveria bassiana*).
+		- Conclusion — a microorganism (fungus) can cause disease in animals. Published 1835.
+		- Opposition — largely ignored by the medical establishment; the germ theory of disease was not yet a framework anyone was working within.
+	- **Ignaz Semmelweis** (1818–1865)
+		- Experiment — noticed that childbed (puerperal) fever mortality in the doctor-attended ward of Vienna General Hospital (10–15%) was far higher than in the midwife-attended ward (~4%). The key difference: doctors came directly from performing autopsies. Instituted mandatory handwashing with chlorinated lime solution in 1847; mortality dropped to under 2%.
+		- Conclusion — cadaverous particles carried on unwashed hands caused childbed fever. Antiseptic handwashing prevents transmission.
+		- Opposition — the medical establishment rejected his findings. Germ theory didn't yet exist; the idea that doctors were killing patients was offensive to the profession. Semmelweis was dismissed, institutionalised, and died in 1865 — ironically, likely from a hospital infection. His work was vindicated only after Pasteur and Lister.
+	- **[Louis Pasteur](/courses/microbiology-discovery-age-1600s-1800s/microbiology-transition-age-1800s/louis-pasteur.html)** (1822–1895)
+		- Demonstrated the microbial basis of fermentation (1857) and decisively ended the spontaneous generation debate with swan-neck flask experiments (1859–1861). See [Louis Pasteur](/courses/microbiology-discovery-age-1600s-1800s/microbiology-transition-age-1800s/louis-pasteur.html).
+- **Impact**
+	- Spontaneous generation was killed as a scientific theory. Fermentation was proven microbial. The principle of aseptic technique was born. The stage was set for germ theory of disease.
+- **Timeline**
+	- 1748 — Needham claims spontaneous generation in boiled broths.
+	- 1768 — Spallanzani's sealed flask experiments challenge spontaneous generation.
+	- 1835 — Bassi proves a fungus causes muscardine disease in silkworms.
+	- 1847 — Semmelweis introduces handwashing; childbed fever mortality drops dramatically.
+	- 1857 — Pasteur demonstrates fermentation is caused by living microorganisms.
+	- 1859–1861 — Pasteur's swan-neck flask experiments definitively end spontaneous generation debate.
+- **Parent**
+	- [Microbiology Discovery Age (1600s–1800s)](/courses/microbiology-discovery-age-1600s-1800s.html)

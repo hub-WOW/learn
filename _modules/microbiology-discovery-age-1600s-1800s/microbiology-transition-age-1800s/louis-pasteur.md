@@ -1,0 +1,30 @@
+- **Louis Pasteur** (1822–1895) — French chemist and microbiologist. Disproved spontaneous generation, founded germ theory of disease, invented pasteurisation, and developed vaccines for chicken cholera, anthrax, and rabies.
+- **Fermentation Experiments (1857)**
+	- **Experiment** — examined souring milk and fermenting sugar solutions under a microscope. Found distinct microorganisms associated with each type of fermentation. Showed that heating killed the organisms and stopped fermentation; reintroducing specific organisms restarted it.
+	- **Conclusion** — fermentation is not a chemical reaction but a biological process carried out by specific living microorganisms. Different organisms produce different products (lactic acid, alcohol, etc.).
+	- **Opposition** — Justus von Liebig, the leading chemist of the era, insisted fermentation was purely chemical. Pasteur and Liebig debated for years; Pasteur's position was ultimately vindicated.
+- **Swan-Neck Flask Experiment (1859–1861)**
+	- **Experiment** — boiled broth in flasks with long, curved swan-neck openings. Air could enter freely, but airborne particles settled in the curve before reaching the broth. Broth remained sterile indefinitely. When the necks were broken or tipped to let the curve contents contact the broth, microbial growth appeared within days.
+	- **Conclusion** — microorganisms come from airborne particles, not from the broth. Spontaneous generation does not occur. Life comes from pre-existing life even at the microbial scale.
+	- **Opposition** — Félix-Archimède Pouchet had published pro-spontaneous generation results the same year. The French Academy of Sciences organised a public competition; Pasteur won decisively. Pouchet's results were likely due to contaminated experimental materials (hay infusions that harboured heat-resistant spores — a genuine complication Pasteur did not fully address).
+- **Pasteurisation (1864)**
+	- **Experiment** — tested whether heating wine and beer to ~60°C for a set time (without boiling) killed spoilage organisms while preserving taste and quality.
+	- **Conclusion** — mild heat treatment kills harmful microorganisms without destroying the product. Named pasteurisation. Applied to milk, wine, and beer; later to food preservation broadly.
+	- **Opposition** — wine and beer producers initially feared heating would ruin their products. Blind taste tests showed no significant difference. Adopted widely within years.
+- **Chicken Cholera Vaccine (1880)**
+	- **Experiment** — was culturing *Pasteurella multocida* (cholera of chickens) when a batch of cultures was accidentally left for several weeks over summer. Injected chickens with the aged culture — they became only mildly ill. When the same chickens were later injected with fresh virulent culture, they did not die (while unvaccinated controls did).
+	- **Conclusion** — aged (attenuated) cultures had lost virulence but retained the ability to confer immunity. The principle of attenuation as a vaccine strategy was discovered by accident.
+	- **Opposition** — none significant; the result was reproducible and built directly on Jenner's smallpox vaccination concept.
+- **Anthrax Vaccine — Pouilly-le-Fort Trial (1881)**
+	- **Experiment** — publicly vaccinated 25 sheep, 1 goat, and 6 cows with attenuated *Bacillus anthracis* twice over two weeks. Then challenged all vaccinated animals plus equal numbers of unvaccinated controls with virulent anthrax. Conducted before journalists, farmers, and scientists.
+	- **Conclusion** — all vaccinated animals survived; all unvaccinated controls died or became seriously ill. A definitive public demonstration of bacterial vaccination.
+	- **Opposition** — Koch criticised Pasteur's methods, arguing his attenuated cultures were inconsistent. The rivalry between Pasteur (France) and Koch (Germany) was as much nationalist as scientific.
+- **Rabies Vaccine (1885)**
+	- **Experiment** — developed a vaccine by desiccating spinal cord tissue from rabies-infected rabbits over 14 days, progressively reducing virulence. Tested on dogs. On 6 July 1885, used it on a 9-year-old boy, Joseph Meister, who had been severely bitten by a rabid dog and faced near-certain death. Administered 13 increasingly potent inoculations over 10 days. Meister survived.
+	- **Conclusion** — rabies vaccine protects against infection even after exposure, if given quickly. Founded the concept of post-exposure prophylaxis.
+	- **Opposition** — Pasteur was a chemist, not a physician, and risked criminal prosecution for administering an untested treatment to a child. He was aware of this. The success made him a national hero in France; the criticism was muted by the outcome. Koch remained privately sceptical of Pasteur's standards.
+- **Legacy**
+	- Germ theory of disease — each disease has a specific microbial cause. Pasteurisation. Attenuation as a vaccine strategy. Swan-neck flask experiment ending spontaneous generation. Founded the Pasteur Institute (1888), still one of the world's leading infectious disease research centres.
+- **Parent**
+	- [Microbiology Transition Age (1800s)](/courses/microbiology-discovery-age-1600s-1800s/microbiology-transition-age-1800s.html)
+	- [Microbiology Golden Age (1857–1914)](/courses/microbiology-discovery-age-1600s-1800s/microbiology-transition-age-1800s/microbiology-golden-age-1857-1914.html)

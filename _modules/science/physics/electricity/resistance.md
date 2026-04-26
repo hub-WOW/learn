@@ -1,0 +1,19 @@
+- **Fundamental Idea**
+	- Resistance is the opposition a conductor offers to the flow of electric current, arising from collisions between drifting electrons and the lattice of the conductor.
+- **Qualitative Explanation**
+	- Free electrons in a conductor don't move unimpeded — they constantly collide with the vibrating atoms of the lattice, losing energy and changing direction. The more collisions per unit length, the harder it is for current to flow. A longer wire means more collisions; a thinner wire means fewer parallel paths; a hotter wire means more vigorous lattice vibrations — all increase resistance.
+- **Generalisation**
+	- Resistance depends on both geometry (length, cross-section) and material (resistivity). Resistivity is the intrinsic material property — independent of shape. Resistance is the extrinsic property of a specific component. At higher temperatures, most metal conductors increase in resistance; semiconductors do the opposite (negative temperature coefficient).
+- **Derivation**
+	- From Ohm's Law: $V \propto I$ → $V = IR$ → $R = \dfrac{V}{I}$
+	- From experiment, for a uniform conductor:
+		- $R \propto L$ (longer → more resistance)
+		- $R \propto \dfrac{1}{A}$ (thicker → less resistance)
+		- $R$ depends on material → introduce resistivity $\rho$
+	- Combining: $R = \rho \dfrac{L}{A}$
+- **Quantitative Form**
+	- $R = \dfrac{V}{I}$, SI unit — Ohm (Ω)
+	- $R = \rho \dfrac{L}{A}$, where $\rho$ = resistivity (Ω·m), $L$ = length (m), $A$ = cross-sectional area (m²)
+	- Resistance increases with temperature in most conductors.
+- **Parent**
+	- [Electricity](/courses/science/physics/electricity.html)

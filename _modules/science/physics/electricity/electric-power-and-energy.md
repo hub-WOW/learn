@@ -1,0 +1,19 @@
+- **Fundamental Idea**
+	- Electric power is the rate at which electrical energy is consumed or supplied; electric energy is the total work done by current over a period of time.
+- **Qualitative Explanation**
+	- A 100 W bulb converts electrical energy to light and heat faster than a 40 W bulb — power is how quickly energy is used. Energy is power accumulated over time. Electricity bills charge for energy consumed (in kilowatt-hours), not power — which is why a high-power appliance used briefly can cost less than a low-power one left on for hours.
+- **Generalisation**
+	- The three expressions for power ($P = VI$, $P = I^2R$, $P = V^2/R$) are all equivalent via Ohm's Law — which form is most useful depends on which quantities are known. High-voltage transmission lines exploit $P = V^2/R$: for fixed power delivered, higher voltage means lower current, and since heat loss $\propto I^2R$, transmission losses drop dramatically.
+- **Derivation**
+	- Work done moving charge $Q$ through voltage $V$: $W = QV$
+	- Current: $I = Q/t$, so $Q = It$; substitute: $W = VIt$
+	- Power = rate of energy use: $P = \dfrac{W}{t} = VI$
+	- Substitute $V = IR$: $P = I^2R$
+	- Substitute $I = V/R$: $P = \dfrac{V^2}{R}$
+- **Quantitative Form**
+	- $P = VI = I^2R = \dfrac{V^2}{R}$, SI unit — Watt (W); $1\text{ W} = 1\text{ J/s}$
+	- $E = Pt = VIt$, SI unit — Joule (J)
+	- Practical unit — kilowatt-hour (kWh) = $3.6 \times 10^6$ J
+	- Units consumed = Power (kW) × Time (h)
+- **Parent**
+	- [Electricity](/courses/science/physics/electricity.html)

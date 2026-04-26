@@ -1,0 +1,15 @@
+- **Fundamental Idea**
+	- For every force exerted by object A on object B, object B exerts an equal and opposite force on object A.
+- **Qualitative Explanation**
+	- Push a wall — your hand feels pushed back. Fire a gun — the gun recoils. A rocket rises as exhaust gas is expelled downward. In every case, forces occur in pairs: you cannot exert a force on something without it pushing back. The key insight is that these paired forces act on **different** objects, so they never cancel each other out.
+- **Generalisation**
+	- Action-reaction pairs are universal — they exist between all interacting objects regardless of their masses or whether either is moving. They explain walking (foot pushes ground back; ground pushes foot forward), swimming, and rocket propulsion equally well.
+- **Derivation**
+	- No derivation — this is an empirical law. It can be understood through conservation of momentum: in an isolated two-body system, if momentum is conserved, the forces the two bodies exert on each other must be equal and opposite. But the Third Law is the more fundamental statement.
+- **Quantitative Form**
+	- $\vec{F}_{AB} = -\vec{F}_{BA}$
+	- Equal in magnitude, opposite in direction, same line of action.
+	- They act on **different objects** — never on the same object.
+	- Examples: gun recoil ($m_{gun} v_{gun} = m_{bullet} v_{bullet}$), rocket propulsion.
+- **Parent**
+	- [Newton's Laws of Motion](/courses/science/physics/motion/newtons-laws-of-motion.html)

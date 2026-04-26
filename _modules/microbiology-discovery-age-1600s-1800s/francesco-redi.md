@@ -1,0 +1,14 @@
+- **Francesco Redi** (1626–1697) — Italian physician and naturalist; delivered the first controlled experimental refutation of spontaneous generation.
+- **Background**
+	- Worked as court physician to the Medici in Florence. Was a rigorous experimentalist in an era when controlled experiments were rare. His target was the belief — dating to Aristotle — that maggots, mice, and other creatures arose spontaneously from rotting matter.
+- **Maggot Experiment (1668)**
+	- **Setup** — placed meat in three sets of jars: open to the air, covered with gauze (air in, flies out), and sealed completely.
+	- **Observation** — maggots appeared only in open jars. Gauze-covered jars had eggs deposited on the gauze but none hatching inside. Sealed jars had no maggots at all.
+	- **Conclusion** — maggots arise from fly eggs deposited on meat, not from the meat itself. *Omne vivum ex vivo* — all life from life.
+	- **Controls** — the use of the gauze jar was particularly elegant: it allowed air in (ruling out "bad air" as the factor) while excluding flies, isolating the variable.
+- **Opposition**
+	- Accepted for macroscopic organisms but immediately challenged for microorganisms. Critics argued that microscopic life was different — too small, too simple — and might still arise spontaneously. The debate shifted to the microbial world, where it persisted for another 190 years until Pasteur.
+- **Legacy**
+	- First scientist to use controlled experimental design to test spontaneous generation. Established the principle *omne vivum ex vivo* for visible organisms. Directly inspired Spallanzani and later Pasteur to extend the argument to microorganisms.
+- **Parent**
+	- [Microbiology Discovery Age (1600s–1800s)](/courses/microbiology-discovery-age-1600s-1800s.html)

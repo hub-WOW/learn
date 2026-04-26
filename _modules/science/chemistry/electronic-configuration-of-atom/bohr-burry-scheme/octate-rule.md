@@ -1,0 +1,4 @@
+- Valence Shell cannot accommodate more than 8 electrons despite of capacity.
+- Parent
+	- [Bohr-Burry Scheme](/courses/science/chemistry/electronic-configuration-of-atom/bohr-burry-scheme.html)
+	- [Valency](/courses/science/chemistry/electronic-configuration-of-atom/valency.html)

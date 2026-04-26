@@ -1,0 +1,22 @@
+- **Context**
+	- Before the 1670s, disease and decay were attributed to miasma, divine will, or imbalance of humours. Nobody suspected invisible living organisms. The microscope — still a crude novelty — changed that.
+- **Scientists**
+	- **Robert Hooke** (1635–1703)
+		- Experiment — examined thin slices of cork and other materials under a compound microscope; published findings in *Micrographia* (1665). Also observed a microfungus (*Mucor*) on a leather surface.
+		- Conclusion — matter is made of discrete compartments he called "cells"; *Mucor* was the first published microscopic observation of a microorganism.
+		- Opposition — none significant; *Micrographia* was widely celebrated.
+	- **[Antonie van Leeuwenhoek](/courses/microbiology-discovery-age-1600s-1800s/antonie-van-leeuwenhoek.html)** (1632–1723)
+		- Built single-lens microscopes achieving ~270× magnification — far beyond anything available. Examined pond water, dental scrapings, pepper infusions, and rainwater. Described and drew moving organisms he called *animalcules* (1676). Reported to the Royal Society of London.
+		- Conclusion — a previously invisible world of living organisms exists everywhere. First human to observe bacteria and protozoa.
+		- Opposition — the Royal Society initially sent a delegation to verify his claims; they were confirmed. His findings were accepted, though their significance (disease causation) was not grasped for another two centuries.
+	- **[Francesco Redi](/courses/microbiology-discovery-age-1600s-1800s/francesco-redi.html)** (1626–1697)
+		- Challenged spontaneous generation for maggots. Set up jars of meat — some open, some covered with gauze, some sealed. Observed that maggots only appeared in open jars where flies could land.
+		- Conclusion — maggots arise from fly eggs, not from meat itself. Life comes from pre-existing life, at least at the macroscopic scale.
+		- Opposition — critics accepted the result for maggots but argued microorganisms were different and might still arise spontaneously. The debate shifted to the microscopic world.
+- **Impact**
+	- Established that a microbial world exists. Delivered the first experimental blow against spontaneous generation. Set the stage for the central question of the next era: where do microorganisms come from?
+- **Timeline**
+	- 1665 — Hooke publishes *Micrographia*; describes cells and microfungi.
+	- 1668 — Redi's maggot experiment refutes macroscopic spontaneous generation.
+	- 1676 — Leeuwenhoek observes and describes bacteria and protozoa.
+	- 1683 — Leeuwenhoek observes bacteria from human dental scrapings.

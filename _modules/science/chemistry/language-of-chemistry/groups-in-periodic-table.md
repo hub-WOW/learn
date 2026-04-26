@@ -1,0 +1,51 @@
+- Groups are the **vertical columns** in the periodic table.
+- Elements in the same group have the **same number of valence electrons**, because of this, they show **similar chemical properties**.
+- The modern periodic table has **18 groups**.
+- Group 1 — Alkali Metals
+	- Very **reactive metals**
+	- Have **1 valence electron**
+	- Soft metals that react strongly with water.
+	- Never found individually.
+	- Form strong hydroxide bases.
+	- Form Salts with Halogens.
+	- Examples
+		- Lithium (Li)
+		- Sodium (Na)
+		- Potassium (K)
+- Group 2 — Alkaline Earth Metals
+	- Reactive metals
+	- Have **2 valence electrons**
+	- Found in the Crust of Earth
+	- Form Oxides.
+	- Harder, and shiny and less reactive than Group 1
+	- Examples
+		- Beryllium (Be)
+		- Magnesium (Mg)
+		- Calcium (Ca)
+- Groups 3–12 — Transition Metals
+	- Typical metallic properties
+	- Good conductors of heat and electricity
+	- Often form **coloured compounds**
+	- Examples
+		- Iron (Fe)
+		- Copper (Cu)
+		- Zinc (Zn)
+- Group 17 — Halogens
+	- Very **reactive non-metals**
+	- Have **7 valence electrons**
+	- Form salts when reacting with metals
+	- Examples
+		- Fluorine (F)
+		- Chlorine (Cl)
+		- Bromine (Br)
+- Group 18 — Noble Gases
+	- **Very stable and unreactive**
+	- Outer electron shell is **complete**
+	- Exist as **monoatomic gases**
+	- Examples
+		- Helium (He)
+		- Neon (Ne)
+		- Argon (Ar)
+- Parent
+	- [Language of Chemistry](/courses/science/chemistry/language-of-chemistry.html)
+	- [Modern Periodic Table (1913)](/courses/science/chemistry/language-of-chemistry/modern-periodic-table-1913.html)

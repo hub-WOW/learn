@@ -1,0 +1,20 @@
+- **Fundamental Idea**
+	- Speed is distance covered per unit time (scalar); velocity is displacement per unit time (vector).
+- **Qualitative Explanation**
+	- Two objects can move at the same speed but produce completely different outcomes if they move in different directions. A ball thrown east and one thrown west at 10 m/s have the same speed but opposite velocities. Direction is physically meaningful — which is why velocity is the more fundamental quantity in dynamics.
+- **Generalisation**
+	- Any time the direction of motion matters — projectile paths, circular orbits, collisions — velocity must be used, not speed. Speed is a simplification valid only when direction is irrelevant or constant.
+- **Derivation**
+	- Defined directly from distance and displacement:
+		- $\text{Speed} = \dfrac{\text{Distance}}{\text{Time}}$
+		- $\vec{v} = \dfrac{\text{Displacement}}{\text{Time}}$
+	- Average speed: $\bar{s} = \dfrac{\text{Total Distance}}{\text{Total Time}}$
+	- Average velocity: $\bar{v} = \dfrac{\text{Total Displacement}}{\text{Total Time}}$
+	- A crucial consequence: an object moving in a circle at constant speed has continuously changing direction → changing velocity → it is accelerating even though speed is constant.
+- **Quantitative Form**
+	- Speed: scalar, SI unit — m/s, always ≥ 0.
+	- Velocity: vector, SI unit — m/s, can be positive, negative, or zero.
+	- Uniform speed — equal distances in equal time intervals.
+	- Uniform velocity — equal displacement in equal time intervals (constant speed AND direction).
+- **Parent**
+	- [Motion](/courses/science/physics/motion.html)

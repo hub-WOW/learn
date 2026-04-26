@@ -1,0 +1,37 @@
+- Combination
+	- Also known as synthesis.
+	- 2 Elements or Compounds combine together to form a single compound.
+	- Example
+		- $2H_2 + O_2 \rightarrow 2H_2O$
+- Decomposition
+	- A single compound breaks into 2 or more compounds or elements.
+	- Example
+		- $CaCO_3 \xrightarrow{\Delta} CaO + CO_2 \uparrow$
+- Displacement
+	- Also known as substitution.
+	- Caused by Reactivity of Elements.
+	- An element or ion takes place of another in a compound.
+	- Example
+		- $Zn + CuSO_4 \rightarrow ZnSO_4 + Cu$
+		- $Metal + Acid \rightarrow Salt + H_2$
+		- $Fe + H_2O \rightarrow Fe_3O_4 + H_2 \uparrow$ 
+		  See: [Ores of Iron](/courses/ores-of-iron.html)
+- Double Displacement
+	- 2 reactants exchange their ions.
+	- Example
+		- $AgNO_3 + NaCl \rightarrow AgCl + NaNO_3$
+		- Neutralisation Reaction: $Acid + Base \rightarrow Salt + Water + Gas$
+- Oxidation
+	- Oxygen gained or Hydrogen lost by reactant.
+	- Example
+		- Combustion
+		- $C + O_2 \rightarrow CO_2$
+- Reduction
+	- Hydrogen gained or Oxygen lost by reactant.
+	- Example
+		- $H_2S + Cl_2 \rightarrow S + 2HCl$
+- Redox
+	- Oxidation and Reduction reaction together.
+	- Example
+		- $CuO + H_2 \rightarrow Cu + H_2O$
+			- $Cu$ was reduced. $H_2$ was oxidised.

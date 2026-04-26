@@ -1,0 +1,25 @@
+- Bonds are links formed between 2 atoms after chemical combination.
+- Linear
+	- [:a {:href "https://quizlet.com/944829228/electron-and-molecular-geometry-flash-cards/", :rel "noopener", :target "_blank"} [:div {} [:img {:src "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fo.quizlet.com%2FhXy7wiTqIkh.Nbo5R5wEUA.jpg&f=1&nofb=1&ipt=c9b3187561574bfb2334135d92a803245d4a05e12e9b6909b0ad9d88376191f4", :alt "Electron and molecular geometry Flashcards | Quizlet", :loading "eager"}]]]
+	- Example: $CO_2$, $HCl$.
+	- Usually diatomic.
+	- Single Plane
+- Trigonal Planar
+	- [:a {:href "https://rockriverhomelesscoalition.com/trigonal-planar-examples-trigonal-planar-molecular/", :rel "noopener", :target "_blank"} [:div {} [:img {:src "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn1.byjus.com%2Fwp-content%2Fuploads%2F2022%2F12%2FTrigonal-Planar-Molecular-Geometry-4.png&f=1&nofb=1&ipt=95660ebe641cdbe5cd9f8c39a6172bb9a38591ad324c88fb8aabc44de71928e9", :alt "trigonal planar examples: trigonal planar molecular - HRRSEA", :loading "eager"}]]]
+	- Single Plane, 3 Bonds.
+	- Example: $BF_3$
+- Tetrahedral
+	- [:a {:href "https://www.askiitians.com/revision-notes/chemistry/chemical-bonding/", :rel "noopener", :target "_blank"} [:div {} [:img {:src "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ffiles.askiitians.com%2Fcdn1%2Fimages%2F201482-173157427-3399-tetrahedral-3d-balls1351478086897_opt.png&f=1&nofb=1&ipt=0cc48a9119dace57475e2244267a03764a70ae4011df3c8b3f56b6c626a47000", :alt "Chemical Bonding and Molecular Structure CBSE Class 11 Chemistry Notes ...", :loading "eager"}]]]
+	- Example: $CH_4$
+	- Maximum distance between atoms.
+- Pyramidal
+	- [:a {:href "https://topblogtenz.com/sncl2-lewis-structure-molecular-geometry-bond-angle-hybridization/", :rel "noopener", :target "_blank"} [:div {} [:img {:src "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftopblogtenz.com%2Fwp-content%2Fuploads%2F2023%2F08%2Fshape-of-NH3-min-292x300.png&f=1&nofb=1&ipt=8aafc2cf5d27e2c4520b01b45d0572e9b1cd78a70a65226376e44cd11d1a434a", :alt "SnCl2 lewis structure, molecular geometry, bond angle, hybridization", :loading "eager"}]]]
+	- Example: $NH_3$
+	- All 3 bonds are in different planes.
+	- $C_2H_6$ is result of tetrahedral and pyramidal bonds.
+- Bent
+	- [:a {:href "https://geometryofmolecules.com/h2o-lewis-structure-shape-and-bond-angles/", :rel "noopener", :target "_blank"} [:div {} [:img {:src "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fgeometryofmolecules.com%2Fwp-content%2Fuploads%2F2017%2F10%2FMolecule-Shape-of-H2O-300x207.png&f=1&nofb=1&ipt=56078ba70dbdf5ad61463b5aa42acdc34ae4300aaa28ed63d0afd8c1888b080d", :alt "H2O Molecular Geometry, Lewis Structure, Shape and Bond Angles", :loading "eager"}]]]
+	- Example: $H_2O$. 109 degrees between $H$ atoms.
+- Parent
+	- [Chemistry](/courses/science/chemistry.html)
+	- [Valency](/courses/science/chemistry/electronic-configuration-of-atom/valency.html)

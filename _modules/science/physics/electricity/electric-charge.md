@@ -1,0 +1,16 @@
+- **Fundamental Idea**
+	- Electric charge is a fundamental intrinsic property of matter that determines how a particle interacts with electric and magnetic fields.
+- **Qualitative Explanation**
+	- Charge comes in two types — positive (protons) and negative (electrons). Like charges repel; unlike charges attract. Objects are normally neutral because protons and electrons balance. When electrons are transferred (e.g. by rubbing), one object gains excess electrons (negative) and the other loses them (positive) — this is static electricity. Charge cannot be created or destroyed, only moved.
+- **Generalisation**
+	- Charge is quantised — it always comes in integer multiples of the elementary charge $e = 1.6 \times 10^{-19}$ C. No free particle with a fraction of $e$ has ever been observed (quarks carry fractional charge but are never free). Conservation of charge is one of the most fundamental laws in physics — it holds in every known interaction.
+- **Derivation**
+	- No derivation — charge is a primitive quantity, defined by its effects (force between charged objects, described by Coulomb's Law: $F = k\dfrac{q_1 q_2}{r^2}$).
+- **Quantitative Form**
+	- SI unit — Coulomb (C)
+	- Elementary charge: $e = 1.6 \times 10^{-19}$ C
+	- Electron charge: $-e$; Proton charge: $+e$
+	- Coulomb's Law: $F = k\dfrac{q_1 q_2}{r^2}$, where $k = 9 \times 10^9$ N·m²/C²
+	- Conductors allow free flow of charge; insulators resist it.
+- **Parent**
+	- [Electricity](/courses/science/physics/electricity.html)

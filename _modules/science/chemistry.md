@@ -1,0 +1,24 @@
+- Chemistry is the branch of science that studies the composition, structure, properties, and changes of matter.
+- It explains how substances interact, combine, and transform into new substances through chemical reactions.
+- Often called the **central science**, because it connects physics, biology, environmental science, and materials science.
+- Key Concepts
+	- **Matter**: Anything that has mass and occupies space.
+	- **Atoms and Molecules**: Fundamental building blocks of matter.
+	- **Chemical Bonds**: Forces that hold atoms together in molecules or compounds.
+	- **Chemical Reactions**: Processes in which substances change into new substances.
+	- **Conservation of Mass**: Matter is neither created nor destroyed in a chemical reaction.
+	- **Stoichiometry**: Quantitative relationship between reactants and products in a reaction.
+	- **Energy Changes**: Reactions often involve absorption or release of energy (heat, light, electricity).
+- Branches of Chemistry
+	- **Organic Chemistry**: Study of carbon-containing compounds.
+	- **Inorganic Chemistry**: Study of minerals, metals, and non-carbon compounds.
+	- **Physical Chemistry**: Study of the physical principles governing chemical systems.
+	- **Analytical Chemistry**: Techniques to identify and quantify substances.
+	- **Biochemistry**: Chemistry of living organisms.
+	- **Industrial Chemistry**: Application of chemical processes in industry.
+- Importance of Chemistry
+	- Explains natural phenomena like rusting, respiration, and photosynthesis.
+	- Enables development of medicines, materials, and energy sources.
+	- Helps understand environmental issues, pollution, and sustainable technologies.
+- Parent
+	- [Science](/courses/science.html)

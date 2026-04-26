@@ -1,0 +1,52 @@
+- Close Contact
+	- When chemicals are sufficiently close, they react.
+	- Example
+		- $2Na + 2H_2O \longrightarrow 2NaOH + H_2$
+		- Sodium is stored in Kerosene, but when exposed to $H_2O$ in the air, it reacts quickly.
+- Physical State
+	- Reactants must be in aqeous (dissolved) form.
+	- Some reactants won't react unless they are in aqeous form.
+	- Example
+		- $NaCl + Pb(NO_3)_2 \not\rightarrow PbCl_2 + 2NaNO_3$
+		- $2NaCl (aq) + Pb(NO_3)_2 (aq) \rightarrow PbCl_2 + 2NaNO_3$
+- Heat Energy
+	- Symbolised as $\Delta$
+	- Some reactions need heat.
+	- Example
+		- $S_2 + Fe \not\rightarrow FeS$
+		- $S_2 + 2Fe \xrightarrow{\Delta} 2FeS$
+- Light Energy
+	- Example
+		- Photosynthesis in Plants
+			- $6CO_2 + 6H_2O \xrightarrow{Chlorophyll \: | \: Light} C_6H_{12}O_6$
+- Pressure
+	- Symbolised by $ATM$.
+	- If reactants are gaseous, pressure is needed.
+	- Example
+		- $CO_2 (g) + H_2O (l) \xrightarrow{ATM}H_2CO_3(l)$
+		- Carbonated Drinks are sour, tangy, and have a good taste due to $H_2CO_3$
+		- They lose taste as $CO_2$ escapes. $H_2CO_3 \longrightarrow H_2O + CO_2$
+- Electricity
+	- Some reactions known as Electro-Chemical Reactions need electricity.
+	- Example
+		- $2H_2+O_2 \xrightleftharpoons{Electricity} 2H_2O$
+		- Batteries store electrical energy as chemical energy, and convert chemical energy into electrical energy.
+- Surface Area
+	- Surface Area $\alpha$ Rate of Reaction
+	- Example
+		- Powdered sugar dissolves faster than granular.
+		- In $Zn + 2HCl \rightarrow ZnCl_2 + H_2| \;$ $Zn$ shavings react faster than chunks.
+- Catalyst
+	- Needed to alter rate of reactions.
+	- Catalyst is a substance which alters rate of reaction but doesn't take part in it.
+	- Promoter
+		- Speeds up rate of reaction.
+		- Example
+			- $N_2(g)+3H_2(g)\xrightarrow{ATM \: | \: Fe} 2NH_3(l)$ Iron ($Fe$) is promoter here.
+			- $2H_2O_2 \xrightarrow{MnO_2} 2H_2O + O_2$. Manganese Dioxide is promoter here.
+	- Inhibitor
+		- Slows down rate of reaction.
+		- Example
+			- Aspirin slows down reactions in brain while headache to prevent swelling and pain.
+- Parent
+	- [Chemical Reactions](/courses/science/chemistry/language-of-chemistry/chemical-reactions.html)

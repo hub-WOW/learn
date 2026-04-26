@@ -1,0 +1,17 @@
+- Definition
+	- Gas carbon is a **hard deposit of nearly pure carbon** formed on the **walls of gas retorts** during the manufacture of coal gas.
+- Formation
+	- Produced when Coal is **heated strongly in the absence of air** to produce Coal Gas.
+	- Some carbon from decomposed hydrocarbons **deposits on the inner walls of the retort**.
+- Properties
+	- Hard and dense
+	- Nearly pure carbon
+	- Good conductor of electricity
+	- Resistant to very high temperatures
+- Uses
+	- Making Electrodes
+	- Used in Batteries
+	- Used in Electric Arc Furnaces
+- Parent
+	- [Coal](/courses/science/chemistry/organic-chemistry/allotropes-of-carbon/coal.html)
+	- [Allotropes of Carbon](/courses/science/chemistry/organic-chemistry/allotropes-of-carbon.html)

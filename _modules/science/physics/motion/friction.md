@@ -1,0 +1,21 @@
+- **Fundamental Idea**
+	- Friction is a contact force that opposes relative motion (or tendency of motion) between two surfaces.
+- **Qualitative Explanation**
+	- No surface is perfectly smooth — at a microscopic level, all surfaces have peaks and valleys (asperities) that interlock when pressed together. Friction is the collective resistance of these interlocked asperities to relative sliding. This is why pressing surfaces harder together increases friction, and why some materials are naturally slipperier than others.
+- **Generalisation**
+	- Friction is not always a nuisance — without it, walking, braking, and writing would be impossible. It is harmful in engines (where it causes wear and heat loss) and tyres (degradation). The same physical origin — surface asperities — explains static, kinetic, and rolling friction, though rolling friction is far smaller because asperities don't fully interlock when rolling.
+- **Derivation** — Amontons–Coulomb Laws (empirical)
+	- Experiment 1: harder you press two surfaces together, the more friction → $f \propto N$
+	- Experiment 2: friction is independent of the area of contact (counterintuitive but confirmed)
+	- Experiment 3: friction depends on the nature of the surfaces → introduce material constant $\mu$
+	- Combining: $f = \mu N$
+	- Static friction is not fixed — it adjusts to match the applied force up to a maximum: $f_s \leq \mu_s N$
+	- Once motion begins, kinetic friction is constant: $f_k = \mu_k N$, with $\mu_k < \mu_s$ always.
+- **Quantitative Form**
+	- $f = \mu N$ where $\mu$ is the dimensionless coefficient of friction
+	- Static: $f_s \leq \mu_s N$ (self-adjusting up to maximum)
+	- Kinetic: $f_k = \mu_k N$ (fixed once sliding begins)
+	- $\mu_k < \mu_s$ — less force needed to keep something moving than to start it
+	- Rolling friction $\ll$ kinetic friction — reason wheels are efficient
+- **Parent**
+	- [Motion](/courses/science/physics/motion.html)

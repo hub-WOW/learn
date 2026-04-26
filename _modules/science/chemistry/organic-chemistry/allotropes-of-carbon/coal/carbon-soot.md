@@ -1,0 +1,17 @@
+- Carbon soot is a **fine black powder of amorphous carbon** formed during the **incomplete combustion of carbon-containing fuels**.
+- Formation
+	- Produced when fuels such as **coal, wood, oil, kerosene, or hydrocarbons** burn with **insufficient oxygen**.
+	- Instead of forming carbon dioxide, some carbon remains as **tiny solid particles**, which appear as black smoke.
+- Properties
+	- Very **fine black powder**
+	- Composed mainly of **amorphous carbon**
+	- **Light and easily airborne**
+	- Stains surfaces easily
+- Occurrence
+	- Found in **smoke from candles, oil lamps, diesel engines, and fires**.
+- Uses
+	- Used as a **black pigment** in inks and paints
+	- Used in the **manufacture of rubber products**
+- Parent
+	- [Coal](/courses/science/chemistry/organic-chemistry/allotropes-of-carbon/coal.html)
+	- [Allotropes of Carbon](/courses/science/chemistry/organic-chemistry/allotropes-of-carbon.html)

@@ -1,0 +1,18 @@
+- **Fundamental Idea**
+	- Static friction is the friction force acting on an object at rest, which adjusts itself to exactly oppose any applied force up to a maximum limit.
+- **Qualitative Explanation**
+	- Unlike kinetic friction which is fixed, static friction is self-adjusting — if you push a book lightly, friction matches your push exactly; the book doesn't move. Only when the applied force exceeds the maximum (limiting friction) does the object begin to slide. This is why objects are harder to start moving than to keep moving.
+- **Generalisation**
+	- Static friction is always $\geq$ kinetic friction for the same surface pair ($\mu_s > \mu_k$). This means the maximum force static friction can provide is always greater than the force kinetic friction exerts once sliding begins — explaining why wheels lock up and skid rather than roll when brakes are slammed.
+- **Derivation**
+	- Experimentally, limiting (maximum) static friction is proportional to the normal force $N$:
+	- $f_{s,max} \propto N$ → introduce $\mu_s$: $f_{s,max} = \mu_s N$
+	- For any applied force below this limit, friction self-adjusts: $f_s \leq \mu_s N$
+	- $\mu_s$ depends only on the nature of the two surfaces, not on area or speed.
+- **Quantitative Form**
+	- $f_s \leq \mu_s N$
+	- At the point of impending motion: $f_s = \mu_s N$ (limiting friction)
+	- $\mu_s > \mu_k$ (always)
+	- Examples: book on a table; car on a slope where $f_s$ balances $mg\sin\theta$.
+- **Parent**
+	- [Friction](/courses/science/physics/motion/friction.html)

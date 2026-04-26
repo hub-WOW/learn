@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Microbiology Modern Age (1900s–Present)</title>
+    
+    <!-- External Dependencies -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.8/dist/katex.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/markdown-it-texmath/css/texmath.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/styles/github-dark.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/highlight.min.js"></script>
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@400;500;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+
+    <!-- Local Styles -->
+    <link rel="stylesheet" href="/Kathisto/styles.css" />
+
+    <!-- Markdown & Math Dependencies -->
+    <script src="https://cdn.jsdelivr.net/npm/markdown-it@13.0.1/dist/markdown-it.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/katex@0.16.8/dist/katex.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/markdown-it-texmath/texmath.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/dompurify/3.0.6/purify.min.js"></script>
+
+    <!-- Shared Infrastructure -->
+    <script src="/Kathisto/layout.js"></script>
+    <script src="/Kathisto/md-engine.js"></script>
+</head>
+<body>
+    <div id="sidebar-wrapper"></div>
+    <main class="main-content">
+        <div id="hero-wrapper"></div>
+        <div class="content-container" id="content"></div>
+    </main>
+<script>
+    window.addEventListener('DOMContentLoaded', () => {
+        const TOP_BAR_LINKS = [
+            { name: 'Home', url: 'http://localhost:8090/' },
+            { name: 'Learn', url: 'http://learn.localhost:8090/',
+                children: [
+                    { name: 'System Design', url: 'http://learn.localhost:8090/courses/system-design/index.html' },
+                    { name: 'Cryptography', url: "http://learn.localhost:8090/courses/system-design/trust.html" },
+                    { name: 'Psychology', url: 'http://learn.localhost:8090/courses/psychology/cognition.html' },
+                    { name: 'Markdown Syntax', url: 'http://learn.localhost:8090/courses/documentation/markdown.html' }
+                ]
+            }
+        ];
+        Layout.init({ topBarLinks: TOP_BAR_LINKS });
+        Layout.renderUnit({
+            hero: {
+                title: 'Microbiology Modern Age (1900s–Present)',
+                subtitle: '',
+                tagline: ''
+            },
+            modules: ['/_modules/microbiology-discovery-age-1600s-1800s/microbiology-transition-age-1800s/microbiology-golden-age-1857-1914/microbiology-modern-age-1900s-present.md']
+        });
+    });
+</script>
+</body>
+</html>

@@ -1,0 +1,14 @@
+- Digits in a measurement that are **meaningful and reliable**.
+- Rules
+	- All **non-zero digits** are significant. → 253 has 3 sig figs.
+	- Zeros **between non-zero digits** are significant. → 205 has 3 sig figs.
+	- **Leading zeros** are not significant. → 0.0045 has 2 sig figs.
+	- **Trailing zeros after a decimal** are significant. → 3.600 has 4 sig figs.
+- Examples
+	- 0.00540 → **3 significant figures** (5, 4, 0)
+	- 1000 → **1 significant figure** (unless written as 1000. or 1.000 × 10³)
+- Why It Matters
+	- Tells you how **precise** a measurement actually is.
+	- Prevents false precision in calculations.
+- Parent
+	- [Measurement](/courses/science/physics/measurement.html)

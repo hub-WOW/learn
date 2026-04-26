@@ -1,0 +1,17 @@
+- Most substances **expand when heated** and **contract when cooled**.
+- Caused by particles gaining energy and **vibrating more**, taking up more space.
+- Types
+	- Linear Expansion — increase in **length** (solids, 1D)
+	- Superficial Expansion — increase in **surface area** (solids, 2D)
+	- Cubical Expansion — increase in **volume** (solids, liquids, gases, 3D)
+- Applications
+	- Gaps left in railway tracks to allow expansion.
+	- Bridges have **expansion joints**.
+	- Thermometers use expansion of liquid mercury/alcohol.
+	- Bimetallic strips — two metals with different expansion rates; used in thermostats.
+- Anomalous Expansion of Water
+	- Water **contracts** on heating from 0°C to **4°C** (opposite to normal behaviour).
+	- Water has its **maximum density at 4°C**.
+	- Important for aquatic life — ice forms at the top, water stays liquid below.
+- Parent
+	- [Heat](/courses/science/physics/heat.html)

@@ -1,0 +1,17 @@
+- Coke is a **hard, porous form of nearly pure carbon** obtained by **heating coal strongly in the absence of air**.
+- Formation
+	- Produced during the **destructive distillation of coal**.
+	- When coal is heated without oxygen, volatile substances are driven off, leaving behind a **carbon-rich solid residue called coke**.
+- Properties
+	- Hard and porous solid
+	- Black or greyish-black in colour
+	- High carbon content (about **90–98% carbon**)
+	- Burns with **little smoke**
+	- Good fuel and can withstand very high temperatures
+- Uses
+	- Used as a **fuel in metallurgical processes**
+	- Used in the **extraction of iron from iron ores**
+	- Used in the **manufacture of steel**
+- Parent
+	- [Coal](/courses/science/chemistry/organic-chemistry/allotropes-of-carbon/coal.html)
+	- [Allotropes of Carbon](/courses/science/chemistry/organic-chemistry/allotropes-of-carbon.html)

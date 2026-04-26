@@ -1,0 +1,14 @@
+- **Fundamental Idea**
+	- An object continues in its state of rest or uniform motion in a straight line unless acted upon by a net external force.
+- **Qualitative Explanation**
+	- Galileo observed that the smoother a surface, the longer an object slides on it. On a perfectly frictionless surface, nothing would stop it. This means force is not needed to maintain motion — only to change it. Objects have an innate resistance to changes in their state of motion, called **inertia**. The First Law is a statement about the natural state of objects when left alone.
+- **Generalisation**
+	- Inertia is proportional to mass — a truck resists changes in motion more than a bicycle. The First Law also implicitly defines what a force is: force is whatever causes a departure from uniform motion. It also defines the concept of an **inertial frame** — a reference frame in which the First Law holds.
+- **Derivation**
+	- No mathematical derivation — this is a foundational postulate generalised from observation. It cannot be derived from more basic principles; it is the starting axiom of Newtonian mechanics.
+- **Quantitative Form**
+	- If $\vec{F}_{net} = 0$, then $\vec{a} = 0$ (velocity is constant or zero).
+	- Inertia is measured by mass $m$ (kg).
+	- Examples: passengers lurch forward when a bus brakes; a tablecloth pulled sharply leaves dishes behind.
+- **Parent**
+	- [Newton's Laws of Motion](/courses/science/physics/motion/newtons-laws-of-motion.html)

@@ -1,0 +1,13 @@
+- A way of expressing **very large or very small numbers** in the form $a \times 10^n$, where $1 \leq a < 10$.
+- Why Use It?
+	- Avoids writing too many zeros.
+	- Makes multiplication and division easier.
+- Examples
+	- Speed of light = 3 × 10⁸ m/s
+	- Size of an atom ≈ 1 × 10⁻¹⁰ m
+	- Mass of Earth ≈ 6 × 10²⁴ kg
+- Operations
+	- Multiplication — add the powers: $10^a \times 10^b = 10^{a+b}$
+	- Division — subtract the powers: $10^a \div 10^b = 10^{a-b}$
+- Parent
+	- [Measurement](/courses/science/physics/measurement.html)

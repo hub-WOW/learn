@@ -1,0 +1,24 @@
+- Humans have always needed to compare things — how far, how heavy, how long.
+- The earliest measurements used **body parts and natural objects** as references.
+	- Cubit — length from elbow to fingertip (used in ancient Egypt).
+	- Foot — length of a human foot (used in Rome).
+	- Grain — mass of a single grain of wheat or barleycorn.
+	- Hand — width of a palm (still used for horse heights).
+- Problem with Ancient Units
+	- A king's cubit differed from a farmer's cubit. A Roman foot differed from an English foot.
+	- Trade, science, and construction all suffered from inconsistency.
+	- The same quantity had different values in different places — results couldn't be trusted or reproduced.
+- The Need for a Standard
+	- A **standard** is a fixed, agreed-upon reference for a unit.
+	- For a standard to be useful it must be — **universal** (same everywhere), **unchanging** (same across time), **reproducible** (anyone can recreate it).
+	- Early national standards (metre in France, yard in England) solved local problems but not global ones.
+- What Measurement Actually Is
+	- Measurement is the process of **comparing an unknown quantity with a known standard** to get a number.
+	- Every measurement has two inseparable parts — a **magnitude** (number) and a **unit**.
+	- Saying "the rope is 5" means nothing. "The rope is 5 metres" is a measurement.
+- Measurement and Science
+	- Science is built on reproducibility — another person must get the same result.
+	- Without agreed units, no experiment can be verified, no law can be stated precisely.
+	- Measurement is therefore not just a tool of science — it is the **language** of science.
+- Parent
+	- [Physics](/courses/science/physics.html)

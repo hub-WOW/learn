@@ -1,0 +1,12 @@
+- [:a {:href "https://senecalearning.com/en-GB/revision-notes/international-a-level/chemistry/cambridge-international/1-4-8-giant-covalent-structures", :rel "noopener", :target "_blank"} [:div {} [:img {:src "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimage-v2.cdn.app.senecalearning.com%2FcourseImages%2Fchemistry%2F2.3.3%2520-%2520Carbon%2520structures%2Fgraphite-structure-min%2Ch_400%2Cq_80%2Cw_640.jpg&f=1&nofb=1&ipt=2ce8442d33a63ef3e643eb677bff2c7507024d6ebabfa62217992eec8ea344e8", :alt "Giant Covalent Structures - Chemistry: Cambridge International A Level", :loading "eager"}]]]
+- Physical Properties
+	- Hexagons stacked on each other.
+	- Allows for carbon atoms to move.
+	- Brittle, Weak, Slippery
+	- Good Conductor of Electricity
+	- Good Conductor of Heat
+	- Flacky, Greyish Colour, Lustrous
+- Chemical Properties
+	- Used in lubricants, batteries, electronics, pencils.
+- Parent
+	- [Allotropes of Carbon](/courses/science/chemistry/organic-chemistry/allotropes-of-carbon.html)

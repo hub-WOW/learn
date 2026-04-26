@@ -1,0 +1,14 @@
+- Neils Bohr created this atomic model. Came after [Rutherford's Atomic Model (1905)](/courses/origin-of-atom/john-daltons-atomic-model-1808/plum-pudding-atomic-model-1903/rutherfords-atomic-model-1905.html)
+  id:: 69cffb45-4008-42a7-8c0b-8ec13fe2ce08
+- [:a {:href "https://www.britannica.com/science/Bohr-model", :rel "noopener", :target "_blank"} [:div {} [:img {:src "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.britannica.com%2F09%2F149209-050-CA687C2F%2FBohr-model-nitrogen-atom.jpg&f=1&nofb=1&ipt=84b539b42c6b72e9dd4cd475bb06f25b9ec682297d5f0ae37a97b3ef47f2324a", :alt "Bohr model | Description & Development | Britannica", :loading "eager"}]]]
+- ## Claims
+	- Electrons stay in orbit due to centrifugal force.
+	- Electrons don't occupy space between orbits.
+	- Electrons can jump from one orbit to another.
+	- Electrons revolve in fixed circular orbits.
+	- Electrons go to a higher orbit if they gain energy and vice versa.
+	- Each orbit has a fixed size and energy requirement.
+	- Outer orbits are larger than inner orbits.
+	- Inward force of attraction and outward centrifugal force stabilises the electron and the atom.
+- Parent
+	- [Rutherford's Atomic Model (1905)](/courses/origin-of-atom/john-daltons-atomic-model-1808/plum-pudding-atomic-model-1903/rutherfords-atomic-model-1905.html)

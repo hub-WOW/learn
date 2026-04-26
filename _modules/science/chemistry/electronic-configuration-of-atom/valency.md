@@ -1,0 +1,11 @@
+- Valency is the combining capacity of an atom.
+  id:: 69d00403-dd10-4c4e-855a-5abc9cb63f29
+- Molecule is the smallest particle that exits independently.
+	- When an atom of an element combines with atom of another or same element.
+	- Types
+		- Monoatomic: $He$, $Ne$
+		- Diatomic: $H_2$, $O_2$, $Cl_2$
+		- Triatomic: $O_3$, $CO_2$
+		- Polyatomic: $P_4$, $S_8$
+- Parent
+	- [Electronic Configuration of Atom](/courses/science/chemistry/electronic-configuration-of-atom.html)

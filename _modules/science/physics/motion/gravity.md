@@ -1,0 +1,22 @@
+- **Fundamental Idea**
+	- Every mass in the universe attracts every other mass with a force proportional to the product of their masses and inversely proportional to the square of the distance between them.
+- **Qualitative Explanation**
+	- Galileo showed that all objects fall at the same rate regardless of mass — the Moon, an apple, and a feather (in vacuum) all accelerate toward Earth equally. Newton realised the same force governing falling objects must govern planetary orbits. The Moon is essentially falling toward Earth but moving sideways fast enough to keep missing — it is in perpetual free fall. This unified terrestrial and celestial gravity into one law.
+- **Generalisation**
+	- Gravity is an inverse-square law — double the distance, the force drops to one quarter. It acts between all masses, no matter how small, and has infinite range. On the scale of planets and stars, it dominates all other forces. It also underpins the definition of weight and the variation of $g$ with location.
+- **Derivation**
+	- From observation: $F \propto m_1 m_2$ and $F \propto \dfrac{1}{r^2}$
+	- Combining: $F = G\dfrac{m_1 m_2}{r^2}$
+	- Deriving $g$ — apply the law to Earth (mass $M$, radius $R$) and object (mass $m$) on the surface:
+		- Gravitational force: $F = G\dfrac{Mm}{R^2}$
+		- By Newton's Second Law: $F = mg$
+		- Equating and cancelling $m$: $g = \dfrac{GM}{R^2}$
+		- Mass $m$ cancels — confirming all objects fall at the same rate.
+- **Quantitative Form**
+	- $F = G\dfrac{m_1 m_2}{r^2}$
+	- $G = 6.674 \times 10^{-11}$ N·m²/kg² (universal gravitational constant)
+	- $g = \dfrac{GM}{R^2} \approx 9.8$ m/s² on Earth's surface
+	- $g$ decreases with altitude: $g_h = \dfrac{GM}{(R+h)^2}$
+	- Weight: $W = mg$ (varies with location; mass does not)
+- **Parent**
+	- [Motion](/courses/science/physics/motion.html)

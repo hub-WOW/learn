@@ -1,0 +1,4 @@
+- Microbiology is the study of microorganisms — living things too small to be seen with the naked eye, including bacteria, viruses, fungi, protozoa, and algae.
+- These organisms were invisible to humans for most of history. Their discovery fundamentally changed medicine, agriculture, food science, and our understanding of life itself.
+- **Parent**
+	- [Biology](/courses/science/biology.html)

@@ -1,0 +1,36 @@
+- After the French Revolution, France created the **metric system** (1795) — the first truly rational, decimal-based system of units.
+- The metre was defined as one ten-millionth of the distance from the North Pole to the equator.
+- Over time, different countries adopted variations, creating confusion again.
+- In **1960**, the international scientific community agreed on a single system — **SI (Système International d'Unités)**.
+- SI is built on **7 base units** from which all other units are derived.
+	- | Quantity | SI Unit | Symbol |
+	- |---|---|---|
+	- | Length | Metre | m |
+	- | Mass | Kilogram | kg |
+	- | Time | Second | s |
+	- | Temperature | Kelvin | K |
+	- | Electric Current | Ampere | A |
+	- | Amount of Substance | Mole | mol |
+	- | Luminous Intensity | Candela | cd |
+- Why Decimal?
+	- Converting 1 km to m is multiplying by 1000 — shift the decimal.
+	- Converting 1 mile to inches requires memorising 63,360 — arbitrary.
+	- Decimal systems reduce arithmetic errors and make calculations faster.
+- SI Prefixes
+	- Prefixes scale any unit up or down in powers of ten.
+	- | Prefix | Symbol | Factor |
+	- |---|---|---|
+	- | Giga | G | 10⁹ |
+	- | Mega | M | 10⁶ |
+	- | Kilo | k | 10³ |
+	- | Centi | c | 10⁻² |
+	- | Milli | m | 10⁻³ |
+	- | Micro | μ | 10⁻⁶ |
+	- | Nano | n | 10⁻⁹ |
+- Modern Definitions (post-2019 redefinition)
+	- SI units are now defined by fixing the numerical values of fundamental constants — not physical artefacts.
+	- The kilogram is no longer "the mass of a platinum-iridium cylinder in Paris."
+	- It is defined by fixing Planck's constant $h = 6.626 \times 10^{-34}$ J·s exactly.
+	- This means the kilogram can be realised anywhere in the universe without a physical object.
+- Parent
+	- [Measurement](/courses/science/physics/measurement.html)

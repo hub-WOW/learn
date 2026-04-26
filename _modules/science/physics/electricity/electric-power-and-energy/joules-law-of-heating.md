@@ -1,0 +1,18 @@
+- **Fundamental Idea**
+	- When current flows through a resistance, electrical energy is converted to heat at a rate proportional to the square of the current, the resistance, and the time.
+- **Qualitative Explanation**
+	- Drifting electrons collide with lattice atoms, transferring kinetic energy to the lattice — this shows up as heat. More current means more collisions per second; higher resistance means each collision costs more energy. The square dependence on current is why doubling current produces four times the heat — the most important practical implication for fuse and heater design.
+- **Generalisation**
+	- Joule heating is the basis of all resistive heating devices (heaters, toasters, filament bulbs) and the mechanism by which fuses protect circuits. It is also the main energy loss in power transmission lines — which is why national grids transmit at very high voltage and low current (since $H \propto I^2$, reducing $I$ drastically cuts losses).
+- **Derivation**
+	- Work done by current $I$ through voltage $V$ in time $t$: $W = VIt$
+	- Substitute Ohm's Law ($V = IR$): $W = (IR)It = I^2Rt$
+	- This work appears entirely as heat: $H = I^2Rt$
+	- Alternatively, using $I = V/R$: $H = \dfrac{V^2}{R}t$
+- **Quantitative Form**
+	- $H = I^2Rt$
+	- H = heat produced (J), I = current (A), R = resistance (Ω), t = time (s)
+	- Equivalent forms: $H = VIt = \dfrac{V^2}{R}t$
+	- Applications: electric fuse (melts when $I^2Rt$ exceeds safe threshold), heaters, filament bulbs.
+- **Parent**
+	- [Electric Power and Energy](/courses/science/physics/electricity/electric-power-and-energy.html)

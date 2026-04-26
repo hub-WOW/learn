@@ -1,0 +1,48 @@
+- **Context**
+	- With spontaneous generation disproved and fermentation proven microbial, the central question became: do specific microorganisms cause specific diseases? This era answered yes — and built the experimental and methodological tools to prove it rigorously.
+- **Scientists**
+	- **[Louis Pasteur](/courses/microbiology-discovery-age-1600s-1800s/microbiology-transition-age-1800s/louis-pasteur.html)** (1822–1895)
+		- Developed vaccines for chicken cholera (1880), anthrax (1881), and rabies (1885). See [Louis Pasteur](/courses/microbiology-discovery-age-1600s-1800s/microbiology-transition-age-1800s/louis-pasteur.html).
+	- **[Robert Koch](/courses/microbiology-discovery-age-1600s-1800s/microbiology-transition-age-1800s/microbiology-golden-age-1857-1914/robert-koch.html)** (1843–1910)
+		- Developed pure culture techniques, solid culture media, and Koch's Postulates. Identified causative agents of anthrax (1876), tuberculosis (1882), and cholera (1883). Nobel Prize 1905. See [Robert Koch](/courses/microbiology-discovery-age-1600s-1800s/microbiology-transition-age-1800s/microbiology-golden-age-1857-1914/robert-koch.html).
+	- **Joseph Lister** (1827–1912)
+		- Experiment — applied Pasteur's germ theory to surgery. Used carbolic acid (phenol) spray to sterilise surgical instruments, wounds, and the air around the operating table (1867). Tracked post-operative mortality before and after.
+		- Conclusion — antiseptic technique dramatically reduced surgical mortality from infection. Proved that post-surgical infections were caused by microorganisms, not "bad air."
+		- Opposition — many surgeons resisted, finding the carbolic spray cumbersome. Over time, antiseptic and later aseptic technique became standard universally.
+	- **Paul Ehrlich** (1854–1915)
+		- Experiment — screened hundreds of organoarsenic compounds systematically against *Treponema pallidum* (syphilis) in animal models. Compound 606 (arsphenamine, branded Salvarsan) proved effective (1909).
+		- Conclusion — a chemical compound could selectively kill a pathogen without killing the host — the "magic bullet" concept. Founded the field of chemotherapy.
+		- Opposition — initial scepticism about safety and the ethics of chemical treatment; Salvarsan had real side effects. It was nonetheless the most effective syphilis treatment until penicillin.
+	- **Élie Metchnikoff** (1845–1916)
+		- Experiment — observed that mobile cells in starfish larvae surrounded and engulfed foreign particles (1882). Tested whether the same occurred with bacteria in higher animals. Found white blood cells actively ingested bacteria.
+		- Conclusion — the body has a cellular defence mechanism — phagocytosis — that is a primary line of immune defence.
+		- Opposition — German school (Ehrlich, Koch) favoured humoral immunity (antibodies in serum) over cellular immunity. The debate between cellular and humoral immunity ran for decades; both were eventually proven correct. Metchnikoff and Ehrlich shared the Nobel Prize in 1908.
+	- **Dmitri Ivanovsky** (1864–1920)
+		- Experiment — investigated tobacco mosaic disease. Passed infected plant sap through a Chamberland porcelain filter (which blocks all known bacteria). The filtrate still caused disease (1892).
+		- Conclusion — the causative agent was smaller than any known bacterium and could pass through bacteria-proof filters.
+		- Opposition — Ivanovsky himself believed the agent might be a toxin or very small bacterium; he did not recognise it as a new category of life.
+	- **Martinus Beijerinck** (1851–1931)
+		- Experiment — repeated and extended Ivanovsky's work (1898). Showed the filterable agent could propagate in living tissue but not in artificial culture (unlike bacteria). It diffused through agar gels.
+		- Conclusion — the agent was a living, reproducing entity fundamentally different from bacteria — a *contagium vivum fluidum* (living contagious fluid). This established the concept of a virus.
+		- Opposition — the idea of a "living fluid" was conceptually strange; full acceptance required electron microscopy decades later to visualise viral particles.
+- **Koch's Postulates**
+	- The microorganism must be found in all cases of the disease.
+	- It must be isolated from the diseased host and grown in pure culture.
+	- The cultured organism must cause disease when introduced into a healthy host.
+	- The organism must be re-isolated from the experimentally diseased host and confirmed identical to the original.
+- **Impact**
+	- Germ theory of disease replaced miasma theory permanently. Every major epidemic pathogen of the era was identified. Vaccines, antiseptics, and chemotherapy were born. The concept of a virus was established.
+- **Timeline**
+	- 1867 — Lister introduces carbolic acid antiseptic surgery.
+	- 1876 — Koch proves *Bacillus anthracis* causes anthrax.
+	- 1880 — Pasteur develops chicken cholera vaccine.
+	- 1881 — Pasteur's public anthrax vaccine trial at Pouilly-le-Fort.
+	- 1882 — Koch identifies *Mycobacterium tuberculosis*; Metchnikoff discovers phagocytosis.
+	- 1883 — Koch identifies *Vibrio cholerae*.
+	- 1884 — Koch formalises Koch's Postulates.
+	- 1885 — Pasteur's rabies vaccine saves Joseph Meister.
+	- 1892 — Ivanovsky demonstrates a filterable infectious agent in tobacco mosaic disease.
+	- 1898 — Beijerinck names the concept of a virus.
+	- 1909 — Ehrlich introduces Salvarsan against syphilis.
+- **Parent**
+	- [Microbiology Transition Age (1800s)](/courses/microbiology-discovery-age-1600s-1800s/microbiology-transition-age-1800s.html)

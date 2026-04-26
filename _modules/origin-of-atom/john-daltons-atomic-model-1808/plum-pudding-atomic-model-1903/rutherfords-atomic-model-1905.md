@@ -1,0 +1,16 @@
+- Rutherford did a gold foil experiment in 1905.
+  id:: 69cff8aa-ef2f-48dd-a9ed-cb05d278969e
+- [:a {:href "https://www.slideserve.com/iden/structure-of-the-atom-circa-1900", :rel "noopener", :target "_blank"} [:div {} [:img {:src "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimage4.slideserve.com%2F419116%2Frutherford-gold-foil-experiment-l.jpg&f=1&nofb=1&ipt=0f9536f6e87c5d6ebb0b8acdaaa9400d5dac510f0712199c3a105c649a58b720", :alt "PPT - Atomic Theory PowerPoint Presentation, free download - ID:419116", :loading "eager"}]]]
+- He shot an (Alpha) α particle beam towards a gold foil surrounded by a screen.
+- ## Observations
+	- Majority of (Alpha) α particles through the sheet.
+	- Some of (Alpha) α particles got deflected.
+	- $\frac{1}{20000}$ of (Alpha) α particles got reflected.
+- ## Conclusions
+	- Atoms have a lot of space
+	- Something was in the center of atom.
+	- The center was positively charged. It was later named as "Nucleus".
+- ## Drawbacks
+	- No fixed orbit defined for electrons.
+- Parent
+	- [Plum Pudding Atomic Model (1903)](/courses/origin-of-atom/john-daltons-atomic-model-1808/plum-pudding-atomic-model-1903.html)
